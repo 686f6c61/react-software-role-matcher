@@ -4,9 +4,7 @@
   <img src="public/images/gif.gif" alt="React Role Matcher - Demo Animado" width="600">
 </div>
 
-<div align="center">
-  <img src="public/images/lineas-niveles.png" alt="React Role Matcher - Niveles Profesionales" width="600">
-</div>
+
 
 Un componente React para autocompletar roles profesionales y mostrar expectativas basadas en años de experiencia, ideal para aplicaciones de desarrollo profesional y definición de perfiles. 
 
@@ -57,6 +55,10 @@ yarn add react-software-role-matcher
 | **Finanzas** | Financial Analyst, Accountant, Controller, Finance Manager, CFO, Investment Analyst, Tax Specialist, Auditor |
 | **Recursos Humanos** | HR Generalist, Talent Acquisition Specialist, HR Business Partner, Learning & Development Specialist, Compensation & Benefits Specialist, People Operations Manager, HR Manager, Recruitment Specialist, Onboarding Specialist, Organizational Development Specialist |
 | **Administración** | Administrative Assistant, Office Manager, Executive Assistant, Facilities Manager, Administrative Coordinator, Virtual Assistant, Front Desk Coordinator, Administrative Director |
+
+<div align="center">
+  <img src="public/images/lineas-niveles.png" alt="React Role Matcher - Niveles Profesionales" width="600">
+</div>
 
 ## Niveles Profesionales
 
