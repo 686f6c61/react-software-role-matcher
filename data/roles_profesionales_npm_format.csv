@@ -1,0 +1,1163 @@
+Categoría,Roles Profesionales
+Software Engineering,"Backend Developer, Frontend Developer, Full-Stack Developer, Software Architect, Tech Lead, Engineering Manager, Mobile Developer, DevOps Engineer, Infrastructure Engineer, SRE (Site Reliability Engineer), SysAdmin, DBA, QA Engineer, Test Automation Engineer, Security Engineer, MLOps Specialist, Developer Advocate, API Developer, Cloud Engineer, Game Developer"
+Data,"Data Analyst, Business Intelligence Specialist, Data Engineer, Data Scientist, Machine Learning Engineer, AI Researcher, Data Visualization Specialist, Big Data Engineer, Data Architect, NLP Engineer"
+Producto,"Product Manager, Product Owner, Project Manager, Delivery Manager, Product Analyst, Lead Product Manager, VP of Product, Technical Product Manager, Growth Product Manager, Innovation Manager"
+Diseño,"Brand Designer, Graphic Designer, Motion Designer, Layout Designer, UI/UX Designer, UX Writer, UX Researcher, Interaction Designer, Visual Designer, 3D Artist, Service Designer, Lead Designer"
+Marketing,"Brand Marketing Specialist, Creative Marketing Specialist, Content Marketer, Content Strategist, Copywriter, Marketing Generalist, Growth Manager, Performance Marketer, PR Specialist, Social Media Manager, Community Manager"
+Sales,"Sales Development Representative, Account Executive, Enterprise Account Executive, Sales Manager, Sales Operations Specialist, Customer Success Manager, Solution Engineer, Sales Engineer, Channel Sales Manager, Regional Sales Director, Chief Revenue Officer"
+Legal,"Legal Counsel, Compliance Officer, Legal Manager, Contract Manager, IP Specialist, Data Privacy Officer, General Counsel"
+Operaciones,"Operations Manager, Business Operations Manager, Strategy Consultant, Customer Service Specialist, Support Specialist, Operations Analyst"
+Finanzas,"Financial Analyst, Accountant, Controller, Finance Manager, CFO, Investment Analyst, Tax Specialist, Auditor"
+Recursos Humanos,"HR Generalist, Talent Acquisition Specialist, HR Business Partner, Learning & Development Specialist, Compensation & Benefits Specialist, People Operations Manager, HR Manager, Recruitment Specialist, Onboarding Specialist, Organizational Development Specialist"
+Administración,"Administrative Assistant, Office Manager, Executive Assistant, Facilities Manager, Administrative Coordinator, Virtual Assistant, Front Desk Coordinator, Administrative Director"
+
+Categoría,Nivel Profesional,Años de Experiencia,Habilidades Esperadas
+
+# Software Engineering - General
+Software Engineering,Estudiante (CS/SE),0-1,"Fundamentos de programación, algoritmos básicos, estructuras de datos, conocimiento básico de un lenguaje de programación (Python, Java, JavaScript), conceptos básicos de bases de datos"
+Software Engineering,Engineering Manager,8-15,"Gestión directa de desarrolladores, evaluación de desempeño, desarrollo de carrera, planificación de recursos, resolución de conflictos, implementación de metodologías ágiles, estimación a largo plazo"
+Software Engineering,Senior Engineering Manager,10-15,"Gestión de múltiples equipos, planificación estratégica, optimización de procesos de desarrollo, gestión de presupuesto, colaboración interdepartamental, KPIs técnicos"
+Software Engineering,Director de Ingeniería,12-18,"Dirección de departamentos técnicos, estrategia tecnológica, innovación, gestión de managers, planificación a largo plazo, optimización organizacional, representación ejecutiva"
+Software Engineering,VP of Engineering,15+,"Liderazgo ejecutivo técnico, estrategia técnica a nivel de empresa, gestión presupuestaria global, desarrollo organizacional, alianzas estratégicas, roadmap tecnológico multi-anual"
+
+# Software Engineering - Backend Developer
+Software Engineering,Backend Developer Trainee,0-1,"Fundamentos de desarrollo backend, bases de datos básicas, APIs sencillas, primeros pasos con lenguajes de backend, conceptos básicos de servidores"
+Software Engineering,Backend Developer Junior,0-2,"Desarrollo backend básico, APIs simples, bases de datos relacionales básicas, testing unitario, implementación de funcionalidades sencillas, Node.js/Python/Java básico"
+Software Engineering,Backend Developer Mid-level,2-4,"APIs RESTful complejas, microservicios básicos, optimización de consultas, caché, seguridad básica, testing avanzado, integración con CI/CD"
+Software Engineering,Backend Developer Senior,4-7,"Arquitectura backend escalable, microservicios avanzados, optimización de rendimiento, alta disponibilidad, seguridad avanzada, mentorización, liderazgo técnico"
+Software Engineering,Backend Tech Lead,7-10,"Liderazgo técnico de equipo backend, diseño de arquitectura, definición de estándares, revisión de código, planificación técnica, desbloqueo de impedimentos"
+Software Engineering,Backend Architect,8-12,"Diseño de sistemas distribuidos, arquitectura de microservicios corporativa, escalabilidad horizontal/vertical, estrategias de persistencia, patrones avanzados"
+Software Engineering,Principal Backend Engineer,10-15,"Liderazgo de múltiples equipos backend, decisiones arquitectónicas estratégicas, consultoría interna, innovación tecnológica, mentorización de seniors y leads"
+Software Engineering,Backend Director,12-18,"Dirección de departamento backend, estrategia tecnológica, roadmap técnico, gestión presupuestaria, gobierno tecnológico, representación ejecutiva"
+Software Engineering,VP of Backend Engineering,15+,"Visión estratégica global, arquitectura empresarial, decisiones tecnológicas a largo plazo, transformación digital, liderazgo ejecutivo, innovación disruptiva"
+
+# Software Engineering - Frontend Developer
+Software Engineering,Frontend Developer Trainee,0-1,"HTML/CSS básico, JavaScript fundamentales, herramientas básicas de desarrollo web, primeros pasos con frameworks, conceptos básicos de UI"
+Software Engineering,Frontend Developer Junior,0-2,"HTML/CSS/JavaScript intermedio, uso básico de frameworks (React/Vue/Angular), responsive design básico, consumo de APIs, componentes simples"
+Software Engineering,Frontend Developer Mid-level,2-4,"JavaScript avanzado, manejo de estado, optimización de rendimiento básica, testing frontend, componentización avanzada, accesibilidad, diseño responsive"
+Software Engineering,Frontend Developer Senior,4-7,"Arquitectura frontend, patrones de diseño avanzados, optimización de rendimiento, SSR/SSG, PWAs, mentorización, liderazgo técnico, estrategias de testing"
+Software Engineering,Frontend Tech Lead,7-10,"Liderazgo técnico de equipo frontend, diseño de arquitectura, definición de estándares, design systems, revisión de código, planificación técnica"
+Software Engineering,Frontend Architect,8-12,"Diseño de arquitecturas frontend complejas, micro-frontends, estrategias de escalabilidad, performance a gran escala, integración con UX/UI"
+Software Engineering,Principal Frontend Engineer,10-15,"Liderazgo de múltiples equipos frontend, decisiones arquitectónicas estratégicas, consultoría interna, innovación en experiencia de usuario, mentorización"
+Software Engineering,Frontend Director,12-18,"Dirección de departamento frontend, estrategia de interfaz de usuario, roadmap técnico, gestión presupuestaria, gobierno tecnológico, representación ejecutiva"
+Software Engineering,VP of Frontend Engineering,15+,"Visión estratégica global de interfaces, arquitectura de experiencia digital, transformación digital, liderazgo ejecutivo, innovación disruptiva"
+
+# Software Engineering - Full-Stack Developer
+Software Engineering,Full-Stack Developer Trainee,0-1,"Fundamentos de desarrollo web, HTML/CSS/JS básico, conceptos básicos de backend, primeros pasos con bases de datos, herramientas básicas"
+Software Engineering,Full-Stack Developer Junior,0-2,"Desarrollo frontend y backend básico, API simples, bases de datos básicas, arquitectura cliente-servidor, frameworks básicos, versionado de código"
+Software Engineering,Full-Stack Developer Mid-level,2-4,"Desarrollo completo de aplicaciones, arquitectura MVC, API RESTful, optimización básica, seguridad web, testing, implementación de CI/CD"
+Software Engineering,Full-Stack Developer Senior,4-7,"Arquitectura de aplicaciones end-to-end, optimización avanzada, escalabilidad, seguridad avanzada, mentorización, liderazgo técnico, diseño de sistemas"
+Software Engineering,Full-Stack Tech Lead,7-10,"Liderazgo técnico de equipo full-stack, arquitectura de soluciones completas, definición de estándares, revisión de código, planificación técnica"
+Software Engineering,Full-Stack Architect,8-12,"Diseño de arquitecturas completas, estrategias de integración, ecosistemas tecnológicos, patrones arquitectónicos avanzados, governance técnico"
+Software Engineering,Principal Full-Stack Engineer,10-15,"Liderazgo de múltiples equipos full-stack, decisiones arquitectónicas estratégicas, consultoría interna, innovación tecnológica, mentorización"
+Software Engineering,Full-Stack Director,12-18,"Dirección de desarrollo de producto, estrategia tecnológica end-to-end, roadmap técnico, gestión presupuestaria, gobierno técnico"
+Software Engineering,VP of Product Engineering,15+,"Visión estratégica global de producto, arquitectura empresarial, transformación digital, liderazgo ejecutivo, innovación disruptiva"
+
+# Software Engineering - DevOps Engineer
+Software Engineering,DevOps Trainee,0-1,"Fundamentos de sistemas, bash básico, git, conceptos de CI/CD, introducción a la nube, conceptos básicos de redes, virtualización básica"
+Software Engineering,DevOps Engineer Junior,0-2,"Automatización básica, CI/CD básico, contenedores (Docker), monitorización básica, scripts de despliegue, operaciones básicas en la nube"
+Software Engineering,DevOps Engineer Mid-level,2-4,"CI/CD avanzado, IaC, Kubernetes básico, automatización de infraestructura, monitorización integral, gestión de logs, optimización de despliegues"
+Software Engineering,DevOps Engineer Senior,4-7,"Arquitecturas cloud nativas, estrategias de escalabilidad, alta disponibilidad, seguridad en la nube, optimización de costes, mentorización, liderazgo técnico"
+Software Engineering,DevOps Tech Lead,7-10,"Liderazgo técnico de equipo DevOps, diseño de plataformas, definición de procesos CI/CD/CT, infraestructura como código avanzada, estrategias de fiabilidad"
+Software Engineering,DevOps Architect,8-12,"Diseño de arquitecturas cloud/híbridas complejas, estrategias multi-cloud, disaster recovery, automatización end-to-end, governance técnico"
+Software Engineering,Principal DevOps Engineer,10-15,"Liderazgo de plataformas de ingeniería, estrategia tecnológica, transformación DevOps, consultoría interna, innovación en operaciones, mentorización"
+Software Engineering,DevOps Director,12-18,"Dirección de plataformas e infraestructura, estrategia cloud/SRE, roadmap técnico, gestión presupuestaria, gobierno técnico, representación ejecutiva"
+Software Engineering,VP of Infrastructure & Operations,15+,"Visión estratégica global de infraestructura, arquitectura empresarial, transformación operacional, liderazgo ejecutivo, innovación disruptiva"
+
+# Software Engineering - Mobile Developer
+Software Engineering,Mobile Developer Trainee,0-1,"Fundamentos de desarrollo móvil, UI básica, introducción a frameworks móviles, conceptos básicos de iOS/Android, primeros pasos con API nativas"
+Software Engineering,Mobile Developer Junior,0-2,"Desarrollo de aplicaciones móviles básicas, UI/UX móvil, consumo de APIs, implementación de funcionalidades sencillas, manejo de recursos, implementación de vistas"
+Software Engineering,Mobile Developer Mid-level,2-4,"Desarrollo móvil nativo avanzado, arquitecturas móviles (MVC, MVVM), rendimiento en dispositivos, almacenamiento local, notificaciones push, integración de SDKs"
+Software Engineering,Mobile Developer Senior,4-7,"Arquitectura de aplicaciones móviles complejas, optimización avanzada, patrones avanzados, seguridad móvil, mentorización, distribución en tiendas, analytics"
+Software Engineering,Mobile Tech Lead,7-10,"Liderazgo técnico de equipo móvil, arquitectura multi-plataforma, estrategias de testing, planificación de versiones, revisión de código, planificación técnica"
+Software Engineering,Mobile Architect,8-12,"Diseño de arquitecturas móviles empresariales, estrategias multi-dispositivo, ecosistemas móviles, patrones arquitectónicos avanzados, governance técnico"
+Software Engineering,Principal Mobile Engineer,10-15,"Liderazgo de plataformas móviles, decisión de stack tecnológico, estrategia multi-plataforma, consultoría interna, innovación móvil, mentorización"
+Software Engineering,Mobile Director,12-18,"Dirección de desarrollo móvil, estrategia móvil corporativa, roadmap tecnológico, gestión presupuestaria, gobierno técnico, representación ejecutiva"
+Software Engineering,VP of Mobile Engineering,15+,"Visión estratégica global de movilidad, ecosistemas móviles empresariales, transformación digital móvil, liderazgo ejecutivo, innovación disruptiva"
+
+# Software Engineering - QA Engineer
+Software Engineering,QA Trainee,0-1,"Testing manual básico, conceptos fundamentales de QA, documentación de bugs, uso de herramientas básicas de testing, testing exploratorio básico"
+Software Engineering,QA Engineer Junior,0-2,"Testing manual, diseño de casos de prueba básicos, seguimiento de defectos, herramientas de QA, testing exploratorio, pruebas de regresión básicas"
+Software Engineering,QA Engineer Mid-level,2-4,"Automatización de pruebas básica, estrategias de testing, análisis de calidad, testing end-to-end, pruebas de rendimiento básicas, CI/CD para QA"
+Software Engineering,QA Engineer Senior,4-7,"Arquitectura de testing, estrategias avanzadas de QA, automatización avanzada, testing de seguridad, mentorización, análisis de riesgo, métricas de calidad"
+Software Engineering,QA Tech Lead,7-10,"Liderazgo técnico de equipo QA, arquitectura de testing, estrategias de automatización, planificación de pruebas, definición de procesos de calidad"
+Software Engineering,QA Architect,8-12,"Diseño de estrategias de quality assurance, testing en sistemas complejos, frameworks de testing empresariales, garantia de calidad continua"
+Software Engineering,Principal QA Engineer,10-15,"Liderazgo de quality assurance, transformación de procesos de testing, consultoría interna de calidad, innovación en testing, mentorización de equipos"
+Software Engineering,QA Director,12-18,"Dirección de quality assurance, estrategia de calidad corporativa, roadmap de testing, gestión presupuestaria, representación ejecutiva"
+Software Engineering,VP of Quality Engineering,15+,"Visión estratégica global de calidad, transformación de calidad a nivel empresarial, liderazgo ejecutivo, innovación disruptiva en testing"
+
+# Software Engineering - Security Engineer
+Software Engineering,Security Engineer Trainee,0-1,"Fundamentos de seguridad informática, conceptos básicos de criptografía, seguridad en redes básica, vulnerabilidades comunes, herramientas básicas"
+Software Engineering,Security Engineer Junior,0-2,"Análisis de vulnerabilidades básico, implementación de controles de seguridad, documentación de políticas, monitoreo de seguridad básico, pentesting básico"
+Software Engineering,Security Engineer Mid-level,2-4,"Pentesting avanzado, seguridad en aplicaciones web, análisis de código por vulnerabilidades, criptografía aplicada, securización de sistemas"
+Software Engineering,Security Engineer Senior,4-7,"Arquitectura de seguridad, evaluación de riesgos, respuesta a incidentes, seguridad en la nube, DevSecOps, cumplimiento normativo, auditorías de seguridad"
+Software Engineering,Security Tech Lead,7-10,"Liderazgo técnico de equipo de seguridad, arquitectura de seguridad corporativa, estrategias de defensa en profundidad, gestión de vulnerabilidades"
+Software Engineering,Security Architect,8-12,"Diseño de arquitecturas de seguridad empresariales, estrategias de protección de datos, modelos de amenazas avanzados, frameworks de seguridad"
+Software Engineering,Principal Security Engineer,10-15,"Liderazgo de seguridad informática, estrategia de ciberseguridad, consultoría interna, innovación en seguridad, mentorización de equipos"
+Software Engineering,Security Director,12-18,"Dirección de seguridad informática, estrategia de seguridad corporativa, gestión de equipos, presupuestos, gobierno de seguridad, relación con reguladores"
+Software Engineering,CISO/VP of Security,15+,"Liderazgo ejecutivo de seguridad, estrategia de ciberseguridad a nivel empresarial, gestión de riesgos corporativos, liderazgo en crisis, regulación"
+
+# Software Engineering - Data Engineer
+Software Engineering,Data Engineer Trainee,0-1,"Fundamentos de ingeniería de datos, SQL básico, ETL básico, conceptos de bases de datos, herramientas básicas de procesamiento de datos"
+Software Engineering,Data Engineer Junior,0-2,"Desarrollo de pipelines básicos, ETL, SQL avanzado, bases de datos relacionales, herramientas de procesamiento, scripts de automatización básicos"
+Software Engineering,Data Engineer Mid-level,2-4,"Pipelines de datos complejos, bases de datos NoSQL, procesamiento distribuido básico, optimización de consultas, integración de fuentes de datos"
+Software Engineering,Data Engineer Senior,4-7,"Arquitectura de datos, sistemas distribuidos, big data, streaming, optimización de rendimiento, data governance, diseño de data warehouses"
+Software Engineering,Data Tech Lead,7-10,"Liderazgo técnico de equipo de datos, arquitectura de plataformas de datos, estrategias de procesamiento, definición de estándares de ingeniería"
+Software Engineering,Data Architect,8-12,"Diseño de arquitecturas de datos empresariales, estrategias de escalabilidad, modelado avanzado, ecosistemas de datos, data governance"
+Software Engineering,Principal Data Engineer,10-15,"Liderazgo de plataformas de datos, estrategia tecnológica, consultoría interna, innovación en ingeniería de datos, mentorización de equipos"
+Software Engineering,Data Engineering Director,12-18,"Dirección de ingeniería de datos, estrategia de datos corporativa, roadmap técnico, gestión presupuestaria, gobierno de datos"
+Software Engineering,VP of Data Engineering,15+,"Visión estratégica global de datos, arquitectura de datos empresarial, transformación digital basada en datos, liderazgo ejecutivo"
+
+# Software Engineering - SRE (Site Reliability Engineer)
+Software Engineering,SRE Trainee,0-1,"Fundamentos de fiabilidad, conceptos de monitoreo, comandos básicos de operaciones, introducción a Linux, conceptos de respuesta a incidentes"
+Software Engineering,SRE Junior,0-2,"Monitoreo básico de sistemas, respuesta a incidentes simples, automatización básica, documentación de procesos, on-call rotations, troubleshooting"
+Software Engineering,SRE Mid-level,2-4,"Diseño de sistemas de monitoreo, análisis de rendimiento, automatización avanzada, SLIs/SLOs, respuesta a incidentes complejos, mejora de sistemas"
+Software Engineering,SRE Senior,4-7,"Arquitectura de observabilidad, estrategia de resiliencia, gestión de chaos engineering, cultura de fiabilidad, mentorización, sistemas distribuidos"
+Software Engineering,SRE Tech Lead,7-10,"Liderazgo técnico de equipos SRE, arquitectura de plataformas de observabilidad, estrategias de escalabilidad, planificación de capacidad"
+Software Engineering,SRE Architect,8-12,"Diseño de arquitecturas de alta disponibilidad, estrategias globales de SRE, frameworks de observabilidad, modelos de fiabilidad complejos"
+Software Engineering,Principal SRE,10-15,"Liderazgo de plataformas de fiabilidad, estrategia de SRE corporativa, consultoría interna, innovación en resiliencia, mentorización"
+Software Engineering,SRE Director,12-18,"Dirección de SRE, estrategia de fiabilidad corporativa, roadmap técnico, gestión presupuestaria, gobierno de sistemas, continuidad negocio"
+Software Engineering,VP of Reliability Engineering,15+,"Visión estratégica global de fiabilidad, arquitectura empresarial resiliente, transformación de fiabilidad, liderazgo ejecutivo"
+
+# Software Engineering - Cloud Engineer
+Software Engineering,Cloud Engineer Trainee,0-1,"Fundamentos de cloud computing, conceptos básicos de IaaS/PaaS/SaaS, introducción a proveedores cloud (AWS, Azure, GCP), conceptos básicos de networking"
+Software Engineering,Cloud Engineer Junior,0-2,"Implementación básica de servicios cloud, configuración de recursos, scripting básico, migración simple a la nube, seguridad básica en cloud"
+Software Engineering,Cloud Engineer Mid-level,2-5,"Arquitecturas cloud complejas, IaC, automatización de despliegues, optimización de costes, multi-cloud básico, servicios gestionados avanzados"
+Software Engineering,Cloud Engineer Senior,5-8,"Diseño de arquitecturas cloud nativas, estrategias de escalabilidad, arquitecturas serverless, multi-cloud avanzado, seguridad en la nube avanzada"
+Software Engineering,Cloud Tech Lead,7-10,"Liderazgo técnico de equipos cloud, arquitectura de plataformas cloud, estrategias de migración, definición de patrones, FinOps"
+Software Engineering,Cloud Architect,8-12,"Diseño de arquitecturas cloud empresariales, estrategias multi-región/multi-cloud, frameworks cloud, gobierno cloud, landing zones"
+Software Engineering,Principal Cloud Engineer,10-15,"Liderazgo de plataformas cloud, estrategia cloud corporativa, innovación en servicios cloud, mentorización de equipos, consultoría interna"
+Software Engineering,Cloud Director,12-18,"Dirección de tecnología cloud, estrategia cloud corporativa, roadmap técnico, gestión presupuestaria, gobierno multi-cloud"
+Software Engineering,VP of Cloud Engineering,15+,"Visión estratégica global cloud, transformación digital basada en cloud, liderazgo ejecutivo, innovación disruptiva cloud"
+
+# Software Engineering - Software Architect
+Software Engineering,Associate Architect,0-3,"Principios básicos de arquitectura, patrones de diseño, documentación arquitectónica, apoyo en decisiones técnicas, análisis de requisitos técnicos"
+Software Engineering,Software Architect Junior,3-5,"Diseño de componentes, implementación de patrones de diseño, documentación técnica, evaluación de tecnologías, implementación de mejores prácticas"
+Software Engineering,Software Architect Mid-level,5-8,"Diseño de arquitecturas escalables, evaluación de frameworks, decisiones técnicas, implementación de estándares, mentorización técnica"
+Software Engineering,Software Architect Senior,8-12,"Arquitectura de sistemas complejos, decisiones estratégicas tecnológicas, gobierno tecnológico, comunicación ejecutiva, evaluación de impacto"
+Software Engineering,Lead Software Architect,10-15,"Liderazgo de equipos de arquitectura, arquitectura empresarial por dominios, estrategias tecnológicas, coordinación cross-funcional"
+Software Engineering,Enterprise Architect,12-18,"Arquitectura empresarial completa, estrategia tecnológica corporativa, roadmaps técnicos, alineación negocio-tecnología, transformación digital"
+Software Engineering,Chief Architect,15+,"Liderazgo de arquitectura corporativa, visión tecnológica global, transformación digital, innovación disruptiva, decisiones estratégicas"
+
+# Software Engineering - Database Administrator (DBA)
+Software Engineering,DBA Trainee,0-1,"Fundamentos de bases de datos, SQL básico, instalación y configuración básica, conceptos de respaldo y recuperación, monitoreo básico"
+Software Engineering,DBA Junior,0-2,"Administración básica de BD, scripts SQL, backups/restores, monitoreo, troubleshooting simple, instalación y configuración"
+Software Engineering,DBA Mid-level,2-5,"Optimización de consultas, diseño de esquemas, replicación, particionamiento, seguridad de datos, monitoreo avanzado, tuning de rendimiento"
+Software Engineering,DBA Senior,5-8,"Arquitectura de BD complejas, alta disponibilidad, disaster recovery, sharding, migraciones complejas, auditoría, troubleshooting avanzado"
+Software Engineering,Lead DBA,7-10,"Liderazgo técnico de equipo DBA, arquitectura de plataformas de datos, estrategias de escalabilidad, planificación de capacidad"
+Software Engineering,Database Architect,8-12,"Diseño de arquitecturas de BD empresariales, estrategias multi-plataforma, consolidación de datos, modelado de datos avanzado"
+Software Engineering,Principal DBA,10-15,"Liderazgo de plataformas de BD, estrategia de datos, consultoría interna, innovación en BD, mentorización de equipos"
+Software Engineering,Database Director,12-18,"Dirección de plataformas de datos, estrategia de BD corporativa, roadmap técnico, gestión presupuestaria, gobierno de datos"
+Software Engineering,VP of Database Engineering,15+,"Visión estratégica global de datos, arquitectura empresarial de BD, transformación digital basada en datos, liderazgo ejecutivo"
+
+# Software Engineering - Game Developer
+Software Engineering,Game Developer Trainee,0-1,"Fundamentos de desarrollo de juegos, introducción a motores (Unity/Unreal), programación básica de juegos, conceptos básicos de gráficos y física"
+Software Engineering,Game Developer Junior,0-2,"Implementación de mecánicas simples, uso básico de motores de juegos, programación de lógica básica, integración de assets, testing de juegos"
+Software Engineering,Game Developer Mid-level,2-6,"Programación de mecánicas complejas, optimización básica, integración con motores gráficos, implementación de físicas, IA básica para juegos"
+Software Engineering,Game Developer Senior,6-10,"Arquitectura de juegos complejos, optimización avanzada, shaders avanzados, IA para juegos, sistemas de juego multiplataforma, networking"
+Software Engineering,Game Tech Lead,8-12,"Liderazgo técnico de equipos de juegos, arquitectura de juegos, estrategias de desarrollo, optimización multiplataforma, mentorización"
+Software Engineering,Game Engine Architect,10-15,"Diseño de motores de juego, sistemas de renderizado avanzados, arquitectura de sistemas complejos, optimización a bajo nivel"
+Software Engineering,Principal Game Engineer,12-18,"Liderazgo de tecnología de juegos, innovación en desarrollo de juegos, mentorización de equipos, arquitectura avanzada de juegos"
+Software Engineering,Game Technology Director,15+,"Dirección de tecnología de juegos, estrategia tecnológica, roadmap de desarrollo, gestión presupuestaria, representación ejecutiva"
+
+# Software Engineering - Engineering Manager
+Software Engineering,Team Lead,4-7,"Liderazgo técnico de equipo pequeño, supervisión técnica, mentorización, planificación de sprints, revisión de código, alineación con producto"
+Software Engineering,Engineering Manager Junior,5-8,"Gestión de equipos de desarrollo, coaching técnico, evaluación de desempeño, planificación táctica, procesos de equipo, comunicación técnica-negocio"
+Software Engineering,Engineering Manager Mid-level,7-10,"Gestión de equipos cross-funcionales, definición de procesos, planificación de capacidad, mejora continua, desarrollo de carrera, gestión de stakeholders"
+Software Engineering,Engineering Manager Senior,9-12,"Liderazgo de múltiples equipos, estrategia técnica departamental, definición de OKRs, staffing, métricas de rendimiento, proyectos complejos"
+Software Engineering,Director of Engineering,10-15,"Dirección de departamento de desarrollo, estrategia técnica, gestión de presupuestos, roadmap tecnológico, gestión de managers"
+Software Engineering,VP of Engineering,15+,"Liderazgo ejecutivo de ingeniería, visión estratégica, transformación tecnológica, desarrollo de organización, gestión presupuestaria global"
+Software Engineering,CTO,15+,"Liderazgo tecnológico ejecutivo, estrategia y visión tecnológica empresarial, innovación disruptiva, liderazgo ejecutivo, transformación digital"
+
+# Software Engineering - Infrastructure Engineer
+Software Engineering,Infrastructure Engineer Trainee,0-1,"Fundamentos de infraestructura, comandos básicos de sistemas, soporte técnico, conceptos de networking, monitoreo básico, seguridad básica"
+Software Engineering,Infrastructure Engineer Junior,0-2,"Administración de servidores básica, despliegue de servicios, scripting básico, configuración de redes, gestión de incidentes simples"
+Software Engineering,Infrastructure Engineer Mid-level,2-4,"Diseño de infraestructura, automatización, configuración avanzada, gestión de entornos, troubleshooting avanzado, integración de sistemas"
+Software Engineering,Infrastructure Engineer Senior,4-7,"Arquitectura de infraestructura, alta disponibilidad, escalabilidad, seguridad avanzada, optimización de rendimiento, disaster recovery"
+Software Engineering,Infrastructure Lead,7-10,"Liderazgo de equipos de infraestructura, estrategia cloud/on-prem, planificación de capacidad, definición de estándares, roadmap técnico"
+Software Engineering,Infrastructure Architect,8-12,"Diseño de infraestructuras empresariales, estrategias multi-región, frameworks de seguridad y cumplimiento, arquitecturas híbridas"
+Software Engineering,Principal Infrastructure Engineer,10-15,"Liderazgo de plataformas de infraestructura, innovación en infraestructura, consultoría interna, estrategia de operaciones, mentorización"
+Software Engineering,Infrastructure Director,12-18,"Dirección de infraestructura, estrategia global, gestión presupuestaria, gobierno de infraestructura, continuidad de negocio"
+
+# Software Engineering - SysAdmin
+Software Engineering,SysAdmin Trainee,0-1,"Fundamentos de administración de sistemas, comandos Linux/Windows básicos, instalación y configuración básica, troubleshooting simple"
+Software Engineering,SysAdmin Junior,0-2,"Administración básica de sistemas operativos, configuración de servidores, scripts básicos, gestión de usuarios, backups, monitoreo básico"
+Software Engineering,SysAdmin Mid-level,2-4,"Automatización de tareas, administración avanzada de sistemas, configuración de servicios complejos, troubleshooting avanzado, scripting"
+Software Engineering,SysAdmin Senior,4-7,"Diseño de arquitecturas de sistemas, alta disponibilidad, estrategias de respaldo y recuperación, seguridad avanzada, mentorización"
+Software Engineering,Lead SysAdmin,7-10,"Liderazgo de equipos de administración, estrategias de operaciones, definición de estándares, optimización de procesos, planificación"
+Software Engineering,Systems Architect,8-12,"Arquitectura de sistemas empresariales, estrategias de consolidación, virtualización avanzada, sistemas críticos, governance técnico"
+Software Engineering,Principal SysAdmin,10-15,"Liderazgo de operaciones de sistemas, innovación en administración, consultoría interna, mejores prácticas, mentorización"
+Software Engineering,IT Operations Director,12-18,"Dirección de operaciones IT, estrategia de sistemas, gestión presupuestaria, gobierno de infraestructura, continuidad de negocio"
+
+# Software Engineering - Test Automation Engineer
+Software Engineering,Test Automation Engineer Trainee,0-1,"Fundamentos de testing, automatización básica, uso de frameworks simples, scripts básicos, conceptos de CI, reporte de defectos"
+Software Engineering,Test Automation Engineer Junior,0-2,"Automatización de pruebas básicas, frameworks de testing, scripts de prueba, integración con CI, testing API básico, testing UI"
+Software Engineering,Test Automation Engineer Mid-level,2-4,"Automatización avanzada, diseño de frameworks de test, pruebas de rendimiento básicas, testing API avanzado, integración CI/CD"
+Software Engineering,Test Automation Engineer Senior,4-7,"Arquitectura de automatización, estrategias de testing, performance testing, security testing, mentorización, framework customizados"
+Software Engineering,Test Automation Lead,7-10,"Liderazgo de equipos de automatización, estrategias de testing, frameworks propios, optimización de procesos de QA, planificación técnica"
+Software Engineering,Test Automation Architect,8-12,"Diseño de arquitecturas de automatización, estrategias de testing empresarial, frameworks de automatización avanzados, governance"
+Software Engineering,Principal Test Automation Engineer,10-15,"Liderazgo de estrategias de automatización, innovación en testing, consultoría interna, definición de estándares, mentorización"
+Software Engineering,Test Automation Director,12-18,"Dirección de equipos de automatización, estrategia global de QA, gestión presupuestaria, roadmap de automatización, innovación"
+
+# Software Engineering - MLOps Specialist
+Software Engineering,MLOps Engineer Trainee,0-1,"Fundamentos de MLOps, conceptos de ML, herramientas básicas de CI/CD para ML, despliegue simple de modelos, monitoreo básico"
+Software Engineering,MLOps Engineer Junior,0-2,"Despliegue de modelos ML, pipelines básicos, versionado de modelos y datos, testing de modelos, integración con infraestructura básica"
+Software Engineering,MLOps Engineer Mid-level,2-4,"Pipelines avanzados de ML, automatización de training, monitoreo de modelos, infraestructura escalable, optimización de recursos"
+Software Engineering,MLOps Engineer Senior,4-7,"Arquitectura de plataformas ML, estrategias de despliegue avanzadas, observabilidad de modelos, seguridad en ML, governance de modelos"
+Software Engineering,MLOps Lead,7-10,"Liderazgo de equipos MLOps, arquitectura de plataformas, estrategias de escalabilidad, definición de workflows, planificación técnica"
+Software Engineering,MLOps Architect,8-12,"Diseño de arquitecturas MLOps empresariales, estrategias de gestión del ciclo de vida ML, plataformas multi-equipo, compliance"
+Software Engineering,Principal MLOps Engineer,10-15,"Liderazgo de plataformas ML, innovación en MLOps, consultoría interna, estrategia tecnológica, mentorización de equipos"
+Software Engineering,ML Platform Director,12-18,"Dirección de plataformas ML, estrategia de operacionalización de ML, gestión presupuestaria, roadmap tecnológico, innovación"
+
+# Software Engineering - Developer Advocate
+Software Engineering,Developer Advocate Junior,0-2,"Documentación técnica básica, tutoriales simples, soporte a desarrolladores, presentaciones básicas, participación en comunidades"
+Software Engineering,Developer Advocate Mid-level,2-4,"Creación de contenido técnico, demos avanzadas, workshops, presentaciones técnicas, gestión de comunidades, feedback de producto"
+Software Engineering,Developer Advocate Senior,4-7,"Estrategia de developer relations, contenido técnico avanzado, representación en eventos, influencia en producto, construcción de comunidad"
+Software Engineering,Lead Developer Advocate,7-10,"Liderazgo de equipos de advocacy, estrategia de developer experience, programas de adopción, relaciones con partners, estrategia de contenido"
+Software Engineering,Developer Relations Manager,8-12,"Gestión de programas de DevRel, estrategia de adopción de plataforma, métricas de éxito, gestión presupuestaria, relaciones con stakeholders"
+Software Engineering,Director of Developer Relations,10-15,"Dirección de developer relations, estrategia de ecosistema de desarrolladores, gestión de managers, programas globales, partnerships"
+
+# Software Engineering - API Developer
+Software Engineering,API Developer Trainee,0-1,"Fundamentos de APIs, REST básico, desarrollo de endpoints simples, documentación básica, testing de endpoints, protocolos HTTP"
+Software Engineering,API Developer Junior,0-2,"Desarrollo de APIs REST, implementación de endpoints, seguridad básica, testing de APIs, integración con bases de datos, documentación"
+Software Engineering,API Developer Mid-level,2-4,"Diseño de APIs, seguridad avanzada, protocolos (REST, GraphQL), optimización de rendimiento, versionado, micro-servicios"
+Software Engineering,API Developer Senior,4-7,"Arquitectura de APIs, estrategias de escalabilidad, gateway patterns, caché, políticas avanzadas, mentorización, API governance"
+Software Engineering,API Tech Lead,7-10,"Liderazgo técnico de equipos API, frameworks de desarrollo, estrategias de integración, planificación técnica, revisión de código"
+Software Engineering,API Architect,8-12,"Diseño de arquitecturas API empresariales, estrategias multi-servicio, estándares de API, seguridad y cumplimiento, governance"
+Software Engineering,Principal API Engineer,10-15,"Liderazgo de estrategia de APIs, innovación en integraciones, consultoría interna, estrategia tecnológica, mentorización de equipos"
+Software Engineering,API Platform Director,12-18,"Dirección de plataformas API, estrategia de integraciones, gestión presupuestaria, roadmap tecnológico, ecosistema de partners API"
+
+# Data - General
+Data,Data Trainee,0-1,"Fundamentos de datos, estadística básica, programación en Python/R, conocimientos básicos de matemáticas, fundamentos de SQL, visualización básica de datos"
+Data,Data Junior,0-2,"Análisis de datos básico, SQL intermedio, herramientas de datos, visualización básica, reportes simples, programación básica, colaboración"
+Data,Data Mid-level,2-4,"Análisis estadístico, pipelines de datos, automatización de procesos, dashboards interactivos, integración de fuentes, optimización básica"
+Data,Data Senior,4-7,"Modelado avanzado, arquitectura de datos, optimización de procesos, storytelling con datos, comunicación técnica-negocio, liderazgo técnico"
+Data,Data Tech Lead,7-10,"Liderazgo técnico de equipos de datos, definición de frameworks, arquitectura de soluciones, priorización, guía técnica, mentorización"
+Data,Data Architect,8-12,"Diseño de arquitecturas de datos empresariales, selección de tecnologías, patrones avanzados, estrategias de escalabilidad, gobierno de datos"
+Data,Principal Data Engineer,10-15,"Liderazgo de plataformas de datos, estrategias de datos empresariales, consultoría interna, innovación en datos, mentorización de equipos"
+Data,Data Director,12-18,"Dirección de departamentos de datos, estrategia de datos y analytics, innovación, gestión de managers, planificación a largo plazo"
+Data,VP of Data/CDO,15+,"Liderazgo ejecutivo de datos, estrategia de datos a nivel de empresa, gestión presupuestaria global, transformación digital, innovación disruptiva"
+
+# Data - Data Scientist
+Data,Data Scientist Trainee,0-1,"Estadística básica, programación en Python/R, EDA básico, algoritmos básicos de ML, primeros modelos supervisados, evaluación básica"
+Data,Data Scientist Junior,0-2,"Algoritmos de ML aplicados, preprocesamiento de datos, validación de modelos, estadística inferencial, visualización avanzada, pipeline de ciencia de datos"
+Data,Data Scientist Mid-level,2-4,"ML avanzado, feature engineering, validación cruzada, optimización de hiperparámetros, frameworks de ML, implementación de modelos end-to-end"
+Data,Data Scientist Senior,4-7,"Deep learning, NLP, sistemas de recomendación, optimización avanzada, MLOps básico, comunicación técnica-negocio, liderazgo de proyectos"
+Data,Data Scientist Tech Lead,7-10,"Liderazgo técnico de equipos de data science, arquitectura de soluciones de ML, estrategias de modelado, mentorización, ML a escala"
+Data,Data Scientist Architect,8-12,"Diseño de arquitecturas de ML empresariales, estrategias de implementación de IA, selección de tecnologías, MLOps avanzado"
+Data,Principal Data Scientist,10-15,"Liderazgo de iniciativas complejas de DS, innovación en ML, consultoría interna, desarrollo de modelos transformadores, mentorización"
+Data,Data Scientist Director,12-18,"Dirección de departamentos de data science, estrategia de IA/ML corporativa, roadmap, gestión presupuestaria, relación con negocio"
+Data,VP of Data Science,15+,"Visión estratégica global de IA, arquitectura empresarial de ML, transformación digital basada en datos, liderazgo ejecutivo"
+
+# Data - Data Analyst
+Data,Data Analyst Trainee,0-1,"SQL básico, excel básico, visualización básica, reporting sencillo, conceptos de análisis de datos, herramientas BI básicas"
+Data,Data Analyst Junior,0-2,"SQL intermedio, Excel avanzado, herramientas de BI (Tableau/Power BI básico), estadística descriptiva, reportes estructurados, ETL básico"
+Data,Data Analyst Mid-level,2-4,"SQL avanzado, dashboards complejos, estadística inferencial básica, automatización de reportes, limpieza de datos avanzada, extracción de insights"
+Data,Data Analyst Senior,4-7,"Análisis estadístico avanzado, storytelling con datos, visualizaciones complejas, análisis predictivo básico, mentorización, alineación con objetivos"
+Data,Data Analyst Tech Lead,7-10,"Liderazgo de equipos de analytics, estrategias de análisis, definición de KPIs, impact assessment, dashboards ejecutivos, optimización de procesos"
+Data,Data Analyst Architect,8-12,"Diseño de arquitecturas analíticas, estrategias de BI corporativa, selección de tecnologías, modelado dimensional avanzado"
+Data,Principal Data Analyst,10-15,"Liderazgo de iniciativas analíticas, innovación en análisis de datos, consultoría interna, análisis transformadores, mentorización"
+Data,Data Analyst Director,12-18,"Dirección de departamentos de análisis, estrategia analítica corporativa, roadmap, gestión presupuestaria, relación con negocio"
+Data,VP of Data Analytics,15+,"Visión estratégica global de data analytics, transformación digital basada en datos, liderazgo ejecutivo, innovación analítica"
+
+# Data - Business Intelligence
+Data,BI Engineer Trainee,0-1,"Fundamentos de BI, SQL básico, herramientas de visualización básicas, reporting simple, conceptos de data warehousing, ETL básico"
+Data,BI Engineer Junior,0-2,"Desarrollo de reportes, dashboards básicos, SQL intermedio, ETL simple, herramientas de BI básicas, análisis de métricas empresariales"
+Data,BI Engineer Mid-level,2-4,"Dashboards complejos, ETL avanzado, modelado dimensional básico, optimización de consultas, automatización de reportes, integración de fuentes"
+Data,BI Engineer Senior,4-7,"Diseño de data warehouses, ETL complejo, modelado dimensional avanzado, KPIs empresariales, optimización avanzada, gobierno de datos básico"
+Data,BI Engineer Tech Lead,7-10,"Liderazgo técnico de equipos BI, arquitectura de soluciones BI, estrategias de data warehousing, mentorización, definición de estándares"
+Data,BI Engineer Architect,8-12,"Diseño de arquitecturas BI empresariales, estrategias de integración, ecosistemas BI, data governance, estrategias de performance"
+Data,Principal BI Engineer,10-15,"Liderazgo de plataformas BI, estrategia BI corporativa, innovación en business intelligence, mentorización de equipos, consultoría interna"
+Data,BI Engineering Director,12-18,"Dirección de business intelligence, estrategia BI corporativa, roadmap técnico, gestión presupuestaria, gobierno de datos"
+Data,VP of Business Intelligence,15+,"Visión estratégica global de BI, arquitectura empresarial de información, transformación digital basada en datos, liderazgo ejecutivo"
+
+# Data - Machine Learning Engineer
+Data,ML Engineer Trainee,0-1,"Fundamentos de ML, implementación de algoritmos básicos, frameworks de ML fundamentales, programación de modelos simples, conceptos básicos"
+Data,ML Engineer Junior,0-2,"Implementación de modelos ML, training workflows, frameworks de ML, procesamiento de datos, validación básica, despliegue simple"
+Data,ML Engineer Mid-level,2-4,"Arquitecturas de modelos avanzados, optimización de rendimiento, pipelines de training, integración de modelos, despliegue en producción"
+Data,ML Engineer Senior,4-7,"Diseño de arquitecturas ML complejas, optimización avanzada, MLOps, distributed training, sistemas de producción, mentorización"
+Data,ML Engineer Tech Lead,7-10,"Liderazgo técnico de equipos ML, arquitectura de sistemas ML, estrategias de implementación, planificación técnica, revisiones"
+Data,ML Engineer Architect,8-12,"Diseño de arquitecturas ML empresariales, estrategias de modelado, gobierno de modelos, frameworks de ML avanzados, seleccion de tecnologías"
+Data,Principal ML Engineer,10-15,"Liderazgo de plataformas ML, innovación en ML, estrategia tecnológica, consultoría interna, mentorización de equipos"
+Data,ML Engineering Director,12-18,"Dirección de ingeniería ML, estrategia ML corporativa, roadmap técnico, gestión presupuestaria, alineación con negocio"
+Data,VP of Machine Learning,15+,"Visión estratégica global de ML, arquitectura empresarial de ML, transformación digital basada en ML, liderazgo ejecutivo, innovación disruptiva"
+
+# Data - AI Researcher
+Data,AI Researcher Trainee,0-1,"Fundamentos de investigación en IA, literatura básica, implementación de papers simples, experimentación guiada, métricas básicas"
+Data,AI Researcher Junior,0-2,"Implementación de papers, experimentación, análisis de resultados básicos, literatura científica, colaboración en proyectos de research"
+Data,AI Researcher Mid-level,2-4,"Diseño de experimentos, adaptación de métodos, análisis de resultados avanzados, contribuciones incrementales, papers de conferencias"
+Data,AI Researcher Senior,4-7,"Investigación original, nuevos métodos algorítmicos, publicaciones en journals/conferencias top, liderazgo de proyectos, mentorización"
+Data,AI Researcher Tech Lead,7-10,"Liderazgo de equipos de investigación, definición de agendas de investigación, investigación innovadora, colaboraciones académicas"
+Data,AI Researcher Architect,8-12,"Diseño de arquitecturas de IA empresariales, estrategias de investigación, liderazgo de áreas de investigación, dirección estratégica"
+Data,Principal AI Researcher,10-15,"Liderazgo de áreas de investigación, contribuciones significativas al campo, innovación en IA, consultoría interna, mentorización"
+Data,AI Research Director,12-18,"Dirección de investigación en IA, agenda de investigación corporativa, transferencia a productos, relaciones académicas, innovación"
+Data,VP of AI Research/Chief Scientist,15+,"Liderazgo científico ejecutivo, visión estratégica de IA, innovación disruptiva, roadmap de investigación, propiedad intelectual"
+
+# Data - Data Visualization Specialist
+Data,Data Viz Engineer Trainee,0-1,"Fundamentos de visualización, herramientas básicas (Tableau/PowerBI), gráficos básicos, conceptos visuales, storytelling básico"
+Data,Data Viz Engineer Junior,0-2,"Creación de dashboards, visualizaciones interactivas básicas, herramientas de visualización, reporting visual, análisis exploratorio"
+Data,Data Viz Engineer Mid-level,2-4,"Visualizaciones complejas, dashboards avanzados, storytelling con datos, personalización avanzada, integración con fuentes diversas"
+Data,Data Viz Engineer Senior,4-7,"Arquitectura de visualización, estrategias visuales, comunicación ejecutiva, optimización UX, mentorización, visualización innovadora"
+Data,Data Viz Engineer Tech Lead,7-10,"Liderazgo de equipos de visualización, estrategias comunicativas, definición de estándares, visualización para decision making"
+Data,Data Viz Engineer Architect,8-12,"Diseño de arquitecturas visuales empresariales, estrategias de comunicación visual, ecosistemas de datos visuales, gobernanza"
+Data,Principal Data Viz Engineer,10-15,"Liderazgo de plataformas de visualización, innovación en comunicación de datos, consultoría interna, mentorización de equipos"
+Data,Data Viz Engineering Director,12-18,"Dirección de visualización corporativa, estrategia global visual, transformación data-driven, gestión presupuestaria, gobierno"
+Data,VP of Data Visualization,15+,"Visión estratégica global de visualización, transformación por datos, liderazgo ejecutivo, innovación visual disruptiva"
+
+# Data - Big Data Engineer
+Data,Big Data Engineer Trainee,0-1,"Fundamentos de big data, herramientas básicas del ecosistema Hadoop, Spark básico, almacenamiento distribuido, conceptos básicos"
+Data,Big Data Engineer Junior,0-2,"Desarrollo de jobs de procesamiento, pipelines básicos, ETL en entornos distribuidos, integración de datos, monitoreo básico"
+Data,Big Data Engineer Mid-level,2-4,"Arquitecturas de procesamiento distribuido, optimización de jobs, data lakes básicos, streaming básico, troubleshooting avanzado"
+Data,Big Data Engineer Senior,4-7,"Diseño de arquitecturas big data, sistemas de streaming complejos, optimización avanzada, alta disponibilidad, mentorización"
+Data,Big Data Engineer Tech Lead,7-10,"Liderazgo técnico de equipos big data, arquitecturas distribuidas, estrategias de procesamiento, planificación técnica"
+Data,Big Data Engineer Architect,8-12,"Diseño de arquitecturas big data empresariales, estrategias de escalabilidad, frameworks de procesamiento, gobierno de datos"
+Data,Principal Big Data Engineer,10-15,"Liderazgo de plataformas big data, innovación en procesamiento distribuido, estrategia tecnológica, mentorización de equipos"
+Data,Big Data Engineering Director,12-18,"Dirección de plataformas big data, estrategia corporativa, roadmap técnico, gestión presupuestaria, gobierno de datos masivos"
+Data,VP of Big Data Engineering,15+,"Visión estratégica global de big data, arquitectura empresarial de procesamiento de datos, liderazgo ejecutivo, innovación disruptiva"
+
+# Data - Data Architect
+Data,Data Architect Trainee,0-1,"Fundamentos de arquitectura de datos, modelado básico, esquemas simples, documentación básica, normalización, conceptos de integración"
+Data,Data Architect Junior,0-2,"Modelado de datos, diseño de esquemas, documentación de arquitecturas, normalización, implementación de modelos simples"
+Data,Data Architect Mid-level,2-4,"Diseño de arquitecturas de datos, modelos dimensionales, integración de fuentes, estrategias de migración, metadatos avanzados"
+Data,Data Architect Senior,4-7,"Arquitecturas de datos complejas, diseño de data lakes/warehouses, estrategias de calidad de datos, gobierno, soluciones empresariales"
+Data,Data Architect Tech Lead,7-10,"Liderazgo de equipos de arquitectura, estrategias de transformación de datos, patrones arquitectónicos, frameworks de integración"
+Data,Data Architect Architect,8-12,"Diseño de arquitecturas empresariales de datos, estrategias multi-sistema, modelos avanzados, governance frameworks avanzados"
+Data,Principal Data Architect,10-15,"Liderazgo arquitectónico ejecutivo, estrategia de datos, innovación en arquitectura, consultoría interna, mentorización de equipos"
+Data,Data Architecture Director,12-18,"Dirección de arquitectura de datos, estrategia global, roadmap de transformación, gobierno corporativo de datos, cumplimiento"
+Data,VP of Data Architecture,15+,"Visión estratégica global, arquitectura empresarial, transformación de negocio basada en datos, liderazgo ejecutivo"
+
+# Data - NLP Engineer
+Data,NLP Engineer Trainee,0-1,"Fundamentos de NLP, procesamiento básico de texto, vectorización, modelos sencillos, librerías NLP básicas, evaluación simple"
+Data,NLP Engineer Junior,0-2,"Implementación de modelos NLP, preprocessing lingüístico, modelos pre-entrenados, fine-tuning básico, evaluación de modelos"
+Data,NLP Engineer Mid-level,2-4,"Arquitecturas NLP avanzadas, transformers, fine-tuning avanzado, procesamiento multilingue, generación de texto, chat/dialog systems"
+Data,NLP Engineer Senior,4-7,"Diseño de sistemas NLP complejos, investigación aplicada, modelos a escala, optimización avanzada, mentorización, despliegue"
+Data,NLP Engineer Tech Lead,7-10,"Liderazgo técnico de equipos NLP, arquitecturas de procesamiento de lenguaje, estrategias de implementación, investigación aplicada"
+Data,NLP Engineer Architect,8-12,"Diseño de arquitecturas NLP empresariales, estrategias multi-idioma/multi-contexto, frameworks lingüísticos, cumplimiento"
+Data,Principal NLP Engineer,10-15,"Liderazgo en procesamiento de lenguaje, innovación en NLP, estrategia tecnológica, investigación aplicada, mentorización"
+Data,NLP Engineering Director,12-18,"Dirección de tecnologías de lenguaje, estrategia NLP corporativa, roadmap técnico, gestión presupuestaria, innovación"
+Data,VP of Natural Language Processing,15+,"Visión estratégica global de NLP, arquitectura empresarial de procesamiento de lenguaje, liderazgo ejecutivo, innovación disruptiva"
+
+# Producto - Product Manager
+Producto,Product Manager Trainee,0-1,"Fundamentos de gestión de producto, metodologías ágiles básicas, investigación de usuarios básica, herramientas de gestión de proyectos, análisis competitivo básico"
+Producto,Product Manager Junior,0-2,"Desarrollo de user stories, seguimiento de sprints, recopilación de requisitos, interacción con desarrollo, análisis simple de métricas, backlogs"
+Producto,Product Manager Mid-level,2-4,"Definición de roadmap a corto plazo, diseño de MVP, priorización eficaz, investigación de producto, métricas clave, facilitación de workshops"
+Producto,Product Manager Senior,4-7,"Definición de estrategia de producto, roadmap a largo plazo, definición de KPIs, liderazgo de equipos ágiles, solución de problemas complejos"
+Producto,Product Manager Tech Lead,7-10,"Liderazgo de equipos de producto, definición de roadmap a nivel de área, pensamiento estratégico, mentorización, priorización a nivel portfolio"
+Producto,Product Manager Architect,8-12,"Gestión de múltiples equipos de producto, estrategia de dominio, definición de OKRs departamentales, gestión de stakeholders senior"
+Producto,Principal Product Manager,10-15,"Dirección de áreas de producto, estrategia de producto a nivel de empresa, gestión presupuestaria, coordinación cross-funcional, medición de impacto"
+Producto,Product Director,12-18,"Dirección de departamentos de producto, estrategia de producto global, innovación, gestión de managers, planificación a largo plazo"
+Producto,VP of Product/CPO,15+,"Liderazgo ejecutivo de producto, visión estratégica global, desarrollo organizacional, estrategia de producto corporativa, transformación e innovación"
+
+# Producto - Product Owner
+Producto,Product Owner Trainee,0-1,"Fundamentos de product ownership, scrum básico, priorización de backlog básica, redacción de historias de usuario simples, refinamiento básico"
+Producto,Product Owner Junior,0-2,"Gestión de backlog, refinamiento, historias de usuario detalladas, ceremonias scrum, comunicación con stakeholders, seguimiento de sprints"
+Producto,Product Owner Mid-level,2-4,"Priorización avanzada, descomposición de epics, representación de negocio, definición de acceptance criteria, negociación con stakeholders"
+Producto,Product Owner Senior,4-7,"Estrategia de delivery, visión de producto, roadmap de ejecución, alineación con estrategia empresarial, liderazgo ágil, mentorización"
+Producto,Product Owner Tech Lead,7-10,"Liderazgo de equipos de POs, gestión de dependencies, estrategia de implementación, mejora continua de procesos, coaching de equipos"
+Producto,Product Owner Architect,8-12,"Diseño de estrategias de product ownership, escalado ágil, gobierno de producto, frameworks de entrega, alineación organizacional"
+Producto,Principal Product Owner,10-15,"Dirección de product ownership corporativo, estrategia de implementación empresarial, liderazgo de transformación ágil, coaching ejecutivo"
+Producto,Product Ownership Director,12-18,"Dirección de departamentos de product ownership, estrategia global, innovación, gestión de equipos, planificación a largo plazo"
+Producto,VP of Product Ownership,15+,"Liderazgo ejecutivo de product ownership, visión estratégica global, desarrollo organizacional, estrategia corporativa, transformación"
+
+# Producto - Business Analyst
+Producto,Business Analyst Trainee,0-1,"Fundamentos de análisis de negocio, recolección básica de requisitos, documentación elemental, mapeo de procesos básico, herramientas básicas"
+Producto,Business Analyst Junior,0-2,"Análisis de requisitos básico, documentación funcional, mapeo de procesos simple, soporte a stakeholders, recolección de información"
+Producto,Business Analyst Mid-level,2-4,"Análisis de procesos avanzado, especificaciones funcionales, workshops de requisitos, gestión de cambios, validación de implementaciones"
+Producto,Business Analyst Senior,4-7,"Análisis de negocio estratégico, modelado de procesos avanzado, definición de soluciones, comunicación con stakeholders C-level, mentorización"
+Producto,Business Analyst Tech Lead,7-10,"Liderazgo de equipos de BA, estrategia de análisis, marcos de trabajo, procesos empresariales complejos, transformación de procesos"
+Producto,Business Analyst Architect,8-12,"Diseño de arquitecturas de análisis, estrategias de transformación, gobierno de requisitos, alineación estratégica, mejores prácticas"
+Producto,Principal Business Analyst,10-15,"Liderazgo de prácticas de análisis, estrategia corporativa, innovación en análisis, consultoría interna, mentorización de equipos"
+Producto,Business Analysis Director,12-18,"Dirección de análisis de negocio, estrategia global, centros de excelencia, gobierno empresarial, innovación de procesos"
+Producto,VP of Business Analysis,15+,"Liderazgo ejecutivo de análisis, visión estratégica global, transformación digital basada en análisis, desarrollo organizacional"
+
+# Producto - Project Manager
+Producto,Project Manager Trainee,0-1,"Fundamentos de gestión de proyectos, soporte básico, herramientas fundamentales, apoyo en documentación, seguimiento simple, reuniones básicas"
+Producto,Project Manager Junior,0-2,"Gestión de proyectos simples, seguimiento de tareas, reporting básico, apoyo en planificación, documentación de proyectos, organización de reuniones"
+Producto,Project Manager Mid-level,2-4,"Gestión de proyectos medianos, planificación detallada, gestión de riesgos, seguimiento de presupuestos, comunicación con stakeholders"
+Producto,Project Manager Senior,4-7,"Gestión de proyectos complejos, metodologías avanzadas, gestión de programas, planificación estratégica, mentorización, gestión de crisis"
+Producto,Project Manager Tech Lead,7-10,"Liderazgo de equipos de PM, definición de metodologías, gestión de portfolios, PMO, optimización de procesos, gobernanza de proyectos"
+Producto,Project Manager Architect,8-12,"Diseño de arquitecturas de project management, frameworks de gestión, estrategias organizacionales, metodologías empresariales"
+Producto,Principal Project Manager,10-15,"Liderazgo de oficinas de proyectos, innovación en gestión, estrategia de delivery, consultoría interna, mentorización de equipos"
+Producto,Project Management Director,12-18,"Dirección de oficina de proyectos, estrategia global, gestión de carteras de proyectos empresariales, transformación organizacional"
+Producto,VP of Project Management,15+,"Liderazgo ejecutivo de gestión de proyectos, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Producto - Delivery Manager
+Producto,Delivery Manager Trainee,0-1,"Fundamentos de delivery, metodologías ágiles básicas, soporte a equipos, seguimiento de tareas, documentación de procesos, reporting básico"
+Producto,Delivery Manager Junior,0-2,"Facilitación básica, coordinación de equipos, implementación de procesos, seguimiento de dependencias, comunicación con stakeholders"
+Producto,Delivery Manager Mid-level,2-4,"Gestión de dependencias complejas, facilitación avanzada, implementación de frameworks ágiles, resolución de bloqueantes, reporting"
+Producto,Delivery Manager Senior,4-7,"Estrategia de delivery, gestión de programas, optimización de procesos, mentorización, escalado ágil, alineación cross-funcional"
+Producto,Delivery Manager Tech Lead,7-10,"Liderazgo de equipos de delivery, implementación de transformaciones ágiles, estrategias de escalado, optimización de delivery"
+Producto,Delivery Manager Architect,8-12,"Diseño de arquitecturas de delivery, estrategias de escalado empresarial, marcos de trabajo, gobernanza, alineación organizacional"
+Producto,Principal Delivery Manager,10-15,"Liderazgo de prácticas de delivery, innovación en entrega, estrategia corporativa, consultoría interna, mentorización de equipos"
+Producto,Delivery Director,12-18,"Dirección de entrega, estrategia global de delivery, transformación organizacional, marcos de trabajo empresariales, coaching ejecutivo"
+Producto,VP of Delivery,15+,"Liderazgo ejecutivo de delivery, visión estratégica global, desarrollo organizacional, estrategia corporativa, transformación"
+
+# Producto - Product Analyst
+Producto,Product Analyst Trainee,0-1,"Fundamentos de análisis de producto, métricas básicas, herramientas fundamentales, seguimiento simple, investigación guiada, reporting básico"
+Producto,Product Analyst Junior,0-2,"Análisis básico de producto, recolección de métricas, reporting simple, investigación de usuarios básica, soporte a decisiones"
+Producto,Product Analyst Mid-level,2-4,"Análisis de comportamiento de usuario, A/B testing, KPIs de producto, modelos de conversión, insights accionables, dashboards"
+Producto,Product Analyst Senior,4-7,"Análisis avanzado de producto, experimentación compleja, modelos predictivos, segmentación, estrategia basada en datos, mentorización"
+Producto,Product Analyst Tech Lead,7-10,"Liderazgo de equipos de analytics, estrategia de datos de producto, definición de marcos de medición, alineación de métricas con objetivos"
+Producto,Product Analyst Architect,8-12,"Diseño de arquitecturas analíticas para productos, estrategias de medición, frameworks de análisis, gobernanza de datos de producto"
+Producto,Principal Product Analyst,10-15,"Liderazgo de analytics de producto, innovación en medición, estrategia corporativa, consultoría interna, mentorización de equipos"
+Producto,Product Analytics Director,12-18,"Dirección de analytics de producto, estrategia global de medición, transformación data-driven, gobierno de datos, planificación estratégica"
+Producto,VP of Product Analytics,15+,"Liderazgo ejecutivo de analytics de producto, visión estratégica global, desarrollo organizacional basado en datos, innovación analítica"
+
+# Producto - Technical Product Manager
+Producto,Technical PM Trainee,0-1,"Fundamentos de gestión de producto técnico, conceptos básicos de ingeniería, metodologías ágiles, product discovery básico"
+Producto,Technical PM Junior,0-2,"Gestión de backlog técnico, historias de usuario, refinamiento con foco técnico, seguimiento de sprints, comunicación técnica-negocio"
+Producto,Technical PM Mid-level,2-4,"Roadmap técnico, priorización con criterio de ingeniería, estrategias de implementación, trade-offs técnicos, gestionar deuda técnica"
+Producto,Technical PM Senior,4-7,"Estrategia de producto técnico, decisiones técnicas complejas, optimización de plataformas, mentorización, escalabilidad de sistemas"
+Producto,Technical PM Tech Lead,7-10,"Liderazgo de equipos de producto técnico, arquitectura de producto, estrategias de plataforma, definición de estándares técnicos"
+Producto,Technical PM Architect,8-12,"Diseño de arquitecturas de productos técnicos, estrategias de plataforma, frameworks de implementación, gobierno tecnológico"
+Producto,Principal Technical PM,10-15,"Liderazgo de productos técnicos, innovación en plataformas, estrategia corporativa, consultoría interna, mentorización de equipos"
+Producto,Technical Product Director,12-18,"Dirección de productos técnicos, estrategia global de plataforma, roadmap técnico corporativo, gobierno tecnológico, planificación"
+Producto,VP of Technical Product,15+,"Liderazgo ejecutivo de producto técnico, visión estratégica global, desarrollo organizacional, estrategia técnica corporativa"
+
+# Producto - Growth Product Manager
+Producto,Growth PM Trainee,0-1,"Fundamentos de growth, métricas básicas de conversión, experimentación básica, investigación de usuario, product discovery"
+Producto,Growth PM Junior,0-2,"Desarrollo de experimentos, implementación de funnel de conversión, A/B testing básico, análisis de comportamiento, iteración"
+Producto,Growth PM Mid-level,2-4,"Diseño de estrategias de crecimiento, experimentación avanzada, optimización de embudos, growth loops, investigación cuantitativa"
+Producto,Growth PM Senior,4-7,"Estrategia de crecimiento end-to-end, frameworks de experimentación, North Star Metrics, modelos econométricos, mentorización"
+Producto,Growth PM Tech Lead,7-10,"Liderazgo de equipos de growth, estrategia multi-canal, modelos de adquisición/retención/monetización, growth accounting"
+Producto,Growth PM Architect,8-12,"Diseño de arquitecturas de growth, estrategias de escalado, frameworks de adquisición, retención y monetización, multi-canal"
+Producto,Principal Growth PM,10-15,"Liderazgo de estrategias de growth, innovación en crecimiento, estrategia corporativa, consultoría interna, mentorización"
+Producto,Growth Director,12-18,"Dirección de growth corporativo, estrategia global de crecimiento, frameworks de escalado, alineación con negocio, planificación"
+Producto,VP of Growth,15+,"Liderazgo ejecutivo de growth, visión estratégica global, desarrollo organizacional, estrategia corporativa de crecimiento"
+
+# Producto - Innovation Manager
+Producto,Innovation Manager Trainee,0-1,"Fundamentos de innovación, herramientas básicas de ideación, soporte a procesos creativos, documentación básica, investigación guiada"
+Producto,Innovation Manager Junior,0-2,"Gestión de ideas, investigación básica, implementación de procesos creativos simples, documentación de innovación, ideación"
+Producto,Innovation Manager Mid-level,2-4,"Facilitación de innovation workshops, design thinking, metodologías de innovación, ideación estructurada, prototipado rápido"
+Producto,Innovation Manager Senior,4-7,"Estrategia de innovación, implementación de labs/incubadoras, evaluación de nuevas tecnologías, programas de innovación abierta"
+Producto,Innovation Manager Tech Lead,7-10,"Liderazgo de equipos de innovación, transformación cultural, programas de intraemprendimiento, presupuestos, mentorización"
+Producto,Innovation Manager Architect,8-12,"Diseño de arquitecturas de innovación, estrategias de transformación, frameworks de creatividad, incubación, ecosistemas"
+Producto,Principal Innovation Manager,10-15,"Liderazgo de innovación corporativa, innovación disruptiva, estrategia de venture building, consultoría interna, estrategia"
+Producto,Innovation Director,12-18,"Dirección de innovación corporativa, estrategia global, ecosistemas de innovación, alianzas estratégicas, planificación"
+Producto,VP of Innovation/Chief Innovation Officer,15+,"Liderazgo ejecutivo de innovación, transformación organizacional, innovación disruptiva, estrategia corporativa, ecosistemas"
+
+# Diseño - UX Design
+Diseño,UX Designer Trainee,0-1,"Fundamentos de UX, investigación de usuarios básica, wireframes básicos, principios de usabilidad, pruebas de usuario básicas, arquetipos de usuarios"
+Diseño,UX Designer Junior,0-2,"Wireframing, flujos de usuario, investigación de usuarios guiada, pruebas de usabilidad, arquitectura de información básica, entrevistas básicas"
+Diseño,UX Designer Mid-level,2-4,"Investigación de usuarios avanzada, arquetipos detallados, journey maps, arquitectura de información, testing moderado, estrategias de contenido"
+Diseño,UX Designer Senior,4-7,"Estrategia de experiencia, investigación avanzada, liderazgo de proyectos, estrategias de investigación, prototipado avanzado, mentorización"
+Diseño,UX Designer Tech Lead,7-10,"Liderazgo de equipos de UX, marcos de investigación, estrategia de diseño centrado en usuario, facilitación de workshops, definición de procesos"
+Diseño,UX Designer Architect,8-12,"Diseño de arquitecturas de experiencia de usuario, estrategias de investigación, frameworks de UX, experiencia cross-platform, sistemas"
+Diseño,Principal UX Designer,10-15,"Liderazgo de prácticas de UX, innovación en experiencia de usuario, estrategia corporativa, consultoría interna, mentorización de equipos"
+Diseño,UX Design Director,12-18,"Dirección de UX, estrategia global de experiencia, transformación centrada en usuario, gestión de departamentos, planificación"
+Diseño,VP of User Experience,15+,"Liderazgo ejecutivo de UX, visión estratégica global, transformación de experiencia, desarrollo organizacional, innovación disruptiva"
+
+# Diseño - UI Design
+Diseño,UI Designer Trainee,0-1,"Fundamentos de diseño visual, herramientas de diseño básicas, principios de composición y color, tipografía básica, conceptos de responsive"
+Diseño,UI Designer Junior,0-2,"Diseño de interfaces básicas, aplicación de guideliness, sistemas de diseño básicos, microinteracciones simples, prototipado visual"
+Diseño,UI Designer Mid-level,2-4,"Diseño de interfaces complejas, creación de componentes, diseño responsive avanzado, animaciones, contribución a sistemas de diseño"
+Diseño,UI Designer Senior,4-7,"Sistemas de diseño, dirección de arte, consistencia multiplataforma, diseño visual estratégico, mentorización, branding digital"
+Diseño,UI Designer Tech Lead,7-10,"Liderazgo de equipos UI, definición de sistemas de diseño, estrategia visual, identidad de marca digital, dirección creativa"
+Diseño,UI Designer Architect,8-12,"Diseño de arquitecturas visuales, sistemas de diseño corporativos, frameworks visuales, estrategias multiplataforma, escalabilidad"
+Diseño,Principal UI Designer,10-15,"Liderazgo de prácticas de UI, innovación en diseño visual, estrategia corporativa, consultoría interna, mentorización de equipos"
+Diseño,UI Design Director,12-18,"Dirección de diseño visual organizacional, estrategia de diseño a nivel empresa, transformación visual, escalabilidad de diseño"
+Diseño,VP of Visual Design,15+,"Liderazgo ejecutivo de diseño visual, visión de identidad de marca, transformación de diseño organizacional, innovación visual disruptiva"
+
+# Diseño - UX Research
+Diseño,UX Researcher Trainee,0-1,"Fundamentos de investigación UX, métodos básicos cualitativos/cuantitativos, herramientas básicas, toma de notas, participación en entrevistas"
+Diseño,UX Researcher Junior,0-2,"Entrevistas de usuario, pruebas de usabilidad, análisis básico de datos, reclutamiento de participantes, creación de protocolos simples"
+Diseño,UX Researcher Mid-level,2-4,"Diseño de estudios, métodos mixtos, análisis avanzado, insights accionables, presentación de resultados, influencia en decisiones"
+Diseño,UX Researcher Senior,4-7,"Estrategia de investigación, métodos avanzados, investigación internacional, stakeholder management, mentorización, workshop facilitation"
+Diseño,UX Researcher Tech Lead,7-10,"Liderazgo de equipos research, marcos de investigación, estrategia de insight, repository management, escalamiento de investigación"
+Diseño,UX Researcher Architect,8-12,"Diseño de arquitecturas de investigación, estrategias orgánicas, frameworks de insight, democratización, sistemas de investigación"
+Diseño,Principal UX Researcher,10-15,"Liderazgo de prácticas de investigación, innovación en métodos, estrategia corporativa, consultoría interna, mentorización de equipos"
+Diseño,UX Research Director,12-18,"Dirección de investigación organizacional, estrategia de insight a nivel empresa, transformación basada en evidencia, cultura research"
+Diseño,VP of UX Research,15+,"Liderazgo ejecutivo de investigación, visión estratégica global, transformación organizacional basada en usuario, innovación disruptiva"
+
+# Diseño - Graphic/Brand Design
+Diseño,Graphic Designer Trainee,0-1,"Fundamentos de diseño gráfico, herramientas básicas (Adobe), composición, tipografía, color, creación de elementos visuales simples"
+Diseño,Graphic Designer Junior,0-2,"Creación de piezas gráficas, aplicación de brand guidelines, layouts básicos, composición visual, producción de materiales simples"
+Diseño,Graphic Designer Mid-level,2-4,"Diseño gráfico avanzado, desarrollo de brand assets, manuales de marca, diseño editorial, marketing visual, conceptualización"
+Diseño,Graphic Designer Senior,4-7,"Dirección creativa, estrategia de marca, sistemas visuales, conceptos visuales complejos, mentorización, storytelling visual"
+Diseño,Graphic Designer Tech Lead,7-10,"Liderazgo de equipos de diseño gráfico, estrategia creativa, sistemas de identidad, dirección de marca, definición de estándares"
+Diseño,Graphic Designer Architect,8-12,"Diseño de arquitecturas visuales, sistemas de identidad corporativa, frameworks creativos, estrategias multiplataforma, escalabilidad"
+Diseño,Principal Graphic Designer,10-15,"Liderazgo de prácticas de diseño gráfico, innovación visual, estrategia corporativa, consultoría interna, mentorización de equipos"
+Diseño,Graphic Design Director,12-18,"Dirección creativa organizacional, estrategia de marca a nivel empresa, visión creativa, transformación de marca, liderazgo creativo"
+Diseño,VP of Brand/Chief Creative Officer,15+,"Liderazgo ejecutivo creativo, visión de marca global, transformación creativa organizacional, innovación de marca disruptiva"
+
+# Diseño - Design Systems/Design Ops
+Diseño,Design System Designer Trainee,0-1,"Fundamentos de sistemas de diseño, herramientas básicas, aprendizaje de librerías, documentación básica, soporte supervisado"
+Diseño,Design System Designer Junior,0-2,"Implementación de componentes básicos, documentación de sistemas, soporte a equipos, mantenimiento básico de librerías, QA visual"
+Diseño,Design System Designer Mid-level,2-4,"Desarrollo de componentes complejos, definición de tokens, patrones de interacción, principios de sistema, colaboración con desarrollo"
+Diseño,Design System Designer Senior,4-7,"Arquitectura de sistemas de diseño, escalabilidad, estrategia de adopción, governance de componentes, optimización de flujos de trabajo"
+Diseño,Design System Designer Tech Lead,7-10,"Liderazgo de equipos de design systems, estrategia de escalabilidad, roadmap de sistemas, evangelización, integración con código"
+Diseño,Design System Designer Architect,8-12,"Diseño de arquitecturas de sistemas, estrategias de gobernanza, frameworks de operaciones, escalabilidad organizacional"
+Diseño,Principal Design System Designer,10-15,"Liderazgo de prácticas de design systems, innovación en sistemas, estrategia corporativa, consultoría interna, mentorización"
+Diseño,Design Systems Director,12-18,"Dirección de sistemas de diseño organizacionales, estrategia multi-brand/multi-producto, transformación de procesos creativos"
+Diseño,VP of Design Systems,15+,"Liderazgo ejecutivo de sistemas de diseño, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Diseño - Gestión y Liderazgo
+Diseño,Design Manager,8-15,"Gestión directa de diseñadores, evaluación de desempeño, desarrollo de carrera, planificación estratégica, resolución de conflictos"
+Diseño,Senior Design Manager,10-15,"Gestión de múltiples equipos de diseño, planificación estratégica, optimización de procesos, gestión de presupuesto, estrategia creativa"
+Diseño,Design Director,12-18,"Dirección de departamentos de diseño, estrategia de diseño global, innovación, gestión de managers, planificación a largo plazo"
+Diseño,VP of Design,15+,"Liderazgo ejecutivo de diseño, estrategia a nivel de empresa, gestión presupuestaria global, desarrollo organizacional, alianzas creativas"
+Diseño,Chief Design Officer (CDO),15+,"Liderazgo ejecutivo de diseño, visión estratégica corporativa, transformación centrada en diseño, innovación disruptiva, cultura de diseño"
+
+# Diseño - Motion Designer
+Diseño,Motion Designer Trainee,0-1,"Fundamentos de animación, herramientas básicas (After Effects), principios de movimiento, composición temporal, conceptos de timing"
+Diseño,Motion Designer Junior,0-2,"Animaciones básicas, transiciones simples, microanimaciones de UI, animación de logos sencillos, efectos visuales básicos"
+Diseño,Motion Designer Mid-level,2-4,"Animaciones complejas, efectos visuales avanzados, expressions básicas, storyboarding, animación para diferentes plataformas"
+Diseño,Motion Designer Senior,4-7,"Dirección de animación, sistemas de movimiento, narrativa visual, mentorización, proyectos complejos, identidad de movimiento"
+Diseño,Motion Designer Tech Lead,7-10,"Liderazgo de equipos de motion, definición de principles de movimiento, visión estratégica, dirección de proyectos complejos"
+Diseño,Motion Designer Architect,8-12,"Diseño de arquitecturas de movimiento, sistemas de animación corporativos, frameworks de interacción, investigación"
+Diseño,Principal Motion Designer,10-15,"Liderazgo de prácticas de motion, innovación en animación, estrategia corporativa, consultoría interna, mentorización"
+Diseño,Motion Design Director,12-18,"Dirección de motion design organizacional, estrategia global de animación, transformación visual, gestión creativa"
+Diseño,VP of Motion Design,15+,"Liderazgo ejecutivo de motion design, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Diseño - Layout Designer
+Diseño,Layout Designer Trainee,0-1,"Fundamentos de composición, grids básicos, jerarquía visual básica, herramientas fundamentales, principios de organización"
+Diseño,Layout Designer Junior,0-2,"Composición visual, maquetación básica, implementación de grids, jerarquía informativa, adaptación de layouts"
+Diseño,Layout Designer Mid-level,2-4,"Sistemas de grid complejos, maquetación avanzada, responsive layouts, estrategias multi-dispositivo, jerarquía visual avanzada"
+Diseño,Layout Designer Senior,4-7,"Arquitectura de información visual, sistemas de composición, estrategias multi-platform, mentorización, sistemas modulares"
+Diseño,Layout Designer Tech Lead,7-10,"Liderazgo de equipos de layout, definición de sistemas de grid, estrategias de composición, dirección de proyectos complejos"
+Diseño,Layout Designer Architect,8-12,"Diseño de arquitecturas de layout, sistemas modulares corporativos, frameworks de organización, investigación"
+Diseño,Principal Layout Designer,10-15,"Liderazgo de prácticas de layout, innovación en composición, estrategia corporativa, consultoría interna, mentorización"
+Diseño,Layout Design Director,12-18,"Dirección de layout design organizacional, estrategia global de composición, transformación visual, gestión creativa"
+Diseño,VP of Layout Design,15+,"Liderazgo ejecutivo de layout design, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Diseño - UX Writer
+Diseño,UX Writer Trainee,0-1,"Fundamentos de UX writing, principios de copywriting, microcopy básico, voice & tone básico, nomenclatura UI elemental"
+Diseño,UX Writer Junior,0-2,"Redacción de microcopy, nomenclatura de UI, instructions básicas, error states, mensajes transaccionales simples"
+Diseño,UX Writer Mid-level,2-4,"Content design, estrategias conversacionales, sistemas de alertas, voice & tone guidelines, taxonomy & labeling"
+Diseño,UX Writer Senior,4-7,"Estrategia de contenido, content frameworks, sistemas conversacionales, mentorización, content ops, localización"
+Diseño,UX Writer Tech Lead,7-10,"Liderazgo de equipos de UX writing, definición de voice & tone, estrategias de contenido, dirección de proyectos complejos"
+Diseño,UX Writer Architect,8-12,"Diseño de arquitecturas de contenido, sistemas de contenido corporativos, frameworks conversacionales, investigación"
+Diseño,Principal UX Writer,10-15,"Liderazgo de prácticas de content design, innovación en UX writing, estrategia corporativa, consultoría interna"
+Diseño,UX Writing Director,12-18,"Dirección de UX writing organizacional, estrategia global de contenido, transformación comunicacional, gestión creativa"
+Diseño,VP of Content Design,15+,"Liderazgo ejecutivo de content design, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Diseño - Interaction Designer
+Diseño,Interaction Designer Trainee,0-1,"Fundamentos de interacción, patrones básicos, herramientas fundamentales, principios de usabilidad, conceptos de microinteracciones"
+Diseño,Interaction Designer Junior,0-2,"Diseño de interacciones básicas, patrones de UI, prototipado simple, microinteracciones básicas, transiciones elementales"
+Diseño,Interaction Designer Mid-level,2-4,"Patrones de interacción avanzados, prototipado complejo, transiciones avanzadas, diseño de comportamiento, user flows"
+Diseño,Interaction Designer Senior,4-7,"Estrategias de interacción, sistemas de comportamiento, prototipado avanzado, mentorización, frameworks interactivos"
+Diseño,Interaction Designer Tech Lead,7-10,"Liderazgo de equipos de interacción, definición de patrones, estrategias de comportamiento, dirección creativa"
+Diseño,Interaction Designer Architect,8-12,"Diseño de arquitecturas de interacción, sistemas corporativos, frameworks de comportamiento, investigación avanzada"
+Diseño,Principal Interaction Designer,10-15,"Liderazgo de prácticas de interacción, innovación en comportamiento, estrategia corporativa, consultoría interna"
+Diseño,Interaction Design Director,12-18,"Dirección de diseño de interacción organizacional, estrategia global de comportamiento, transformación interactiva"
+Diseño,VP of Interaction Design,15+,"Liderazgo ejecutivo de diseño de interacción, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Diseño - Visual Designer
+Diseño,Visual Designer Trainee,0-1,"Fundamentos de diseño visual, principios de composición, color y tipografía básicos, herramientas fundamentales"
+Diseño,Visual Designer Junior,0-2,"Aplicación de estilos visuales, implementación de lineamientos de marca, layouts visuales básicos, assets gráficos"
+Diseño,Visual Designer Mid-level,2-4,"Sistemas visuales, estilo visual consistente, adaptación de marca, dirección de arte básica, storytelling visual"
+Diseño,Visual Designer Senior,4-7,"Dirección de arte, sistemas visuales complejos, expresión de marca avanzada, mentorización, estrategia visual"
+Diseño,Visual Designer Tech Lead,7-10,"Liderazgo de equipos visuales, definición de estilos, estrategias visuales corporativas, dirección creativa"
+Diseño,Visual Designer Architect,8-12,"Diseño de arquitecturas visuales, sistemas de marca corporativos, frameworks de estilo, investigación visual"
+Diseño,Principal Visual Designer,10-15,"Liderazgo de prácticas visuales, innovación en diseño visual, estrategia corporativa, consultoría interna"
+Diseño,Visual Design Director,12-18,"Dirección de diseño visual organizacional, estrategia global de marca visual, transformación estética, gestión creativa"
+Diseño,VP of Visual Design,15+,"Liderazgo ejecutivo de diseño visual, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Diseño - 3D Artist
+Diseño,3D Artist Trainee,0-1,"Fundamentos de modelado 3D, herramientas básicas, conceptos de iluminación, texturas elementales, renderizado básico"
+Diseño,3D Artist Junior,0-2,"Modelado 3D básico, texturas simples, iluminación estándar, composición de escenas básicas, renders simples"
+Diseño,3D Artist Mid-level,2-4,"Modelado complejo, materiales avanzados, iluminación realista, composición avanzada, render de calidad, animación básica"
+Diseño,3D Artist Senior,4-7,"Dirección artística 3D, escenas complejas, shaders personalizados, mentorización, optimización avanzada, simulaciones"
+Diseño,3D Artist Tech Lead,7-10,"Liderazgo de equipos 3D, pipe-lines de producción, estrategias de renderizado, dirección técnica, supervisión de producciones"
+Diseño,3D Artist Architect,8-12,"Diseño de arquitecturas 3D, sistemas de producción corporativos, frameworks de renderizado, investigación técnica"
+Diseño,Principal 3D Artist,10-15,"Liderazgo de prácticas 3D, innovación en procesos 3D, estrategia técnica, consultoría interna, supervisión de equipos"
+Diseño,3D Design Director,12-18,"Dirección de arte 3D organizacional, estrategia global de producción 3D, transformación técnica, gestión creativa"
+Diseño,VP of 3D Production,15+,"Liderazgo ejecutivo de producción 3D, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Diseño - Service Designer
+Diseño,Service Designer Trainee,0-1,"Fundamentos de service design, herramientas básicas, mapeo de servicios elemental, investigación guiada, documentación básica"
+Diseño,Service Designer Junior,0-2,"Mapeo de servicios básico, journey mapping simple, blueprints básicos, investigación de usuarios, stakeholder mapping"
+Diseño,Service Designer Mid-level,2-4,"Service blueprints avanzados, ecosistemas de servicios, design thinking facilitación, investigación multi-contexto, workshops"
+Diseño,Service Designer Senior,4-7,"Estrategia de servicios, transformación de negocios, facilitación avanzada, mentorización, blueprints complejos, service innovation"
+Diseño,Service Designer Tech Lead,7-10,"Liderazgo de equipos service design, definición de metodologías, transformación organizacional, dirección de proyectos complejos"
+Diseño,Service Designer Architect,8-12,"Diseño de arquitecturas de servicios, sistemas corporativos, frameworks de transformación, investigación avanzada"
+Diseño,Principal Service Designer,10-15,"Liderazgo de prácticas de service design, innovación en servicios, estrategia corporativa, consultoría interna"
+Diseño,Service Design Director,12-18,"Dirección de service design organizacional, estrategia global de transformación, visión de servicios, gestión estratégica"
+Diseño,VP of Service Design,15+,"Liderazgo ejecutivo de service design, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Marketing - Marketing Generalist
+Marketing,Marketing Generalist Trainee,0-1,"Fundamentos de marketing, herramientas básicas, principios de comunicación, social media básico, redacción básica, analytics elemental"
+Marketing,Marketing Generalist Junior,0-2,"Implementación de campañas simples, gestión básica de redes sociales, copywriting básico, análisis simple de métricas, apoyo en eventos"
+Marketing,Marketing Generalist Mid-level,2-4,"Gestión de campañas completas, estrategia de contenidos, SEO/SEM intermedio, análisis de performance, email marketing, gestión de eventos"
+Marketing,Marketing Generalist Senior,4-7,"Desarrollo de estrategias de marketing, gestión presupuestaria, análisis avanzado de performance, campañas integradas, mentorización"
+Marketing,Marketing Generalist Tech Lead,7-10,"Liderazgo de equipos de marketing, definición de estrategias, planificación de campañas, gestión de agencias, optimización de resultados"
+Marketing,Marketing Generalist Architect,8-12,"Diseño de estrategias integradas, desarrollo de marca, estrategias multicanal, gestión de portfolios de productos, planificación a largo plazo"
+Marketing,Principal Marketing Generalist,10-15,"Liderazgo de prácticas de marketing, innovación en estrategias, consultoría interna, mentorización de equipos, optimización de inversión"
+Marketing,Marketing Director,12-18,"Dirección de departamentos de marketing, estrategia global, innovación, gestión de managers, planificación a largo plazo, brand governance"
+Marketing,VP of Marketing/CMO,15+,"Liderazgo ejecutivo de marketing, visión estratégica global, desarrollo organizacional, estrategia corporativa, transformación de marca"
+
+# Marketing - Brand Marketing Specialist
+Marketing,Brand Marketing Trainee,0-1,"Fundamentos de branding, herramientas básicas de marca, principios de identidad visual, brand guidelines básicas, apoyo en activaciones"
+Marketing,Brand Marketing Junior,0-2,"Implementación de activaciones de marca simples, apoyo en campañas de branding, aplicación de brand guidelines, materiales básicos"
+Marketing,Brand Marketing Mid-level,2-4,"Gestión de proyectos de marca, desarrollo de mensajes de marca, activaciones complejas, medición de brand awareness, planificación de eventos"
+Marketing,Brand Marketing Senior,4-7,"Estrategia de marca, brand architecture, brand voice, desarrollo de posicionamiento, mentorización, campañas de branding integradas"
+Marketing,Brand Marketing Tech Lead,7-10,"Liderazgo de equipos de marca, definición de estrategias de posicionamiento, gestión de rebrandings, brand tracking, gestión de agencias"
+Marketing,Brand Marketing Architect,8-12,"Diseño de arquitecturas de marca, estrategias de branding corporativo, frameworks de identidad, estrategias globales, brand ecosystems"
+Marketing,Principal Brand Marketing Specialist,10-15,"Liderazgo de prácticas de marca, innovación en branding, estrategia de marca corporativa, consultoría interna, mentorización de equipos"
+Marketing,Brand Marketing Director,12-18,"Dirección de branding organizacional, estrategia global de marca, transformación de identidad, gestión de rebrandings complejos"
+Marketing,VP of Brand,15+,"Liderazgo ejecutivo de marca, visión estratégica global, desarrollo de marcas disruptivas, brand valuation, equity building"
+
+# Marketing - Creative Marketing Specialist
+Marketing,Creative Marketing Trainee,0-1,"Fundamentos de marketing creativo, herramientas creativas básicas, conceptos visuales, ideación básica, storytelling elemental"
+Marketing,Creative Marketing Junior,0-2,"Implementación de conceptos creativos simples, desarrollo de piezas creativas básicas, copywriting creativo, ideación guiada"
+Marketing,Creative Marketing Mid-level,2-4,"Desarrollo de conceptos creativos complejos, dirección creativa básica, storytelling avanzado, campañas creativas, gestión de producciones"
+Marketing,Creative Marketing Senior,4-7,"Estrategia creativa, dirección de conceptos de campaña, mentorización, evaluación creativa, brief development, pitch creativo"
+Marketing,Creative Marketing Tech Lead,7-10,"Liderazgo de equipos creativos, definición de estrategias creativas, dirección de campañas complejas, gestión de agencias, evaluación"
+Marketing,Creative Marketing Architect,8-12,"Diseño de arquitecturas creativas, estrategias creativas corporativas, frameworks de innovación, investigación creativa"
+Marketing,Principal Creative Marketing Specialist,10-15,"Liderazgo de prácticas creativas, innovación en marketing creativo, estrategia corporativa, consultoría interna, mentorización"
+Marketing,Creative Marketing Director,12-18,"Dirección creativa organizacional, estrategia global creativa, transformación de comunicación, gestión de equipos creativos"
+Marketing,VP of Creative Marketing,15+,"Liderazgo ejecutivo creativo, visión estratégica global, desarrollo de comunicación disruptiva, transformación creativa"
+
+# Marketing - Content Marketer
+Marketing,Content Marketing Trainee,0-1,"Fundamentos de marketing de contenidos, herramientas básicas, redacción elemental, blogs básicos, calendarios editoriales simples"
+Marketing,Content Marketing Junior,0-2,"Redacción de contenidos básicos, contenidos para redes sociales, blogs, newsletters simples, contenido SEO básico, investigación"
+Marketing,Content Marketing Mid-level,2-4,"Estrategia de contenidos para diversos canales, contenido lead gen, white papers básicos, webinars, storytelling, adaptación de mensajes"
+Marketing,Content Marketing Senior,4-7,"Desarrollo de estrategias de contenido, contenido técnico especializado, mentorización, content roadmaps, medición de impacto"
+Marketing,Content Marketing Tech Lead,7-10,"Liderazgo de equipos de contenido, definición de estrategias editoriales, content governance, gestión de recursos creativos"
+Marketing,Content Marketing Architect,8-12,"Diseño de arquitecturas de contenido, estrategias corporativas, frameworks de content marketing, investigación avanzada"
+Marketing,Principal Content Marketing Specialist,10-15,"Liderazgo de prácticas de contenido, innovación en formatos, estrategia corporativa, consultoría interna, mentorización de equipos"
+Marketing,Content Marketing Director,12-18,"Dirección de contenido organizacional, estrategia global, transformación de comunicación, gestión estratégica de contenidos"
+Marketing,VP of Content,15+,"Liderazgo ejecutivo de contenidos, visión estratégica global, desarrollo organizacional, estrategia corporativa, transformación"
+
+# Marketing - Content Strategist
+Marketing,Content Strategist Trainee,0-1,"Fundamentos de estrategia de contenidos, herramientas básicas, análisis elemental de audiencias, conceptos de journey mapping"
+Marketing,Content Strategist Junior,0-2,"Desarrollo de planes de contenido básicos, investigación de audiencia, clasificación de contenidos, auditorías simples, categorización"
+Marketing,Content Strategist Mid-level,2-4,"Estrategias de contenido por canal, investigación de audiencia avanzada, journey mapping, auditorías complejas, governance básico"
+Marketing,Content Strategist Senior,4-7,"Desarrollo de estrategias globales de contenido, modelos de gobernanza, alineación con ventas, mentorización, medición de impacto"
+Marketing,Content Strategist Tech Lead,7-10,"Liderazgo de equipos de estrategia, definición de modelos de contenido, content taxonomies, estrategia omnicanal, gestión de recursos"
+Marketing,Content Strategist Architect,8-12,"Diseño de arquitecturas de contenido, estrategias globales, frameworks de gobernanza, investigación avanzada, content operations"
+Marketing,Principal Content Strategist,10-15,"Liderazgo de prácticas de estrategia, innovación en modelos, estrategia corporativa, consultoría interna, mentorización de equipos"
+Marketing,Content Strategy Director,12-18,"Dirección de estrategia de contenidos, estrategia global de comunicación, transformación de procesos, enterprise content strategy"
+Marketing,VP of Content Strategy,15+,"Liderazgo ejecutivo de estrategia, visión global de comunicación, desarrollo organizacional, estrategia corporativa, transformación"
+
+# Marketing - Copywriter
+Marketing,Copywriter Trainee,0-1,"Fundamentos de copywriting, redacción básica, conceptos de mensaje, herramientas elementales, principios de comunicación"
+Marketing,Copywriter Junior,0-2,"Redacción de textos para distintos formatos, adaptación de mensajes, copywriting promocional básico, SEO copywriting elemental"
+Marketing,Copywriter Mid-level,2-4,"Copywriting para diversos canales, conceptos creativos, adaptación de tono y voz, headlines, storytelling, redacción persuasiva"
+Marketing,Copywriter Senior,4-7,"Desarrollo de conceptos creativos, copy estrategía, mensajes complejos, mentorización, brand voice, proyectos multidisciplinarios"
+Marketing,Copywriter Tech Lead,7-10,"Liderazgo de equipos de redacción, definición de estrategias de mensaje, dirección creativa, gestión de proyectos complejos"
+Marketing,Copywriter Architect,8-12,"Diseño de sistemas de mensaje, estrategias globales de comunicación, frameworks de redacción, tone of voice corporativo"
+Marketing,Principal Copywriter,10-15,"Liderazgo de prácticas de copywriting, innovación en comunicación, estrategia corporativa, consultoría interna, mentorización"
+Marketing,Copy Director,12-18,"Dirección de copywriting organizacional, estrategia global de comunicación, transformación de mensajes, gestión creativa"
+Marketing,VP of Brand Communications,15+,"Liderazgo ejecutivo de comunicación, visión estratégica global, desarrollo organizacional, estrategia corporativa, transformación"
+
+# Marketing - Growth Manager
+Marketing,Growth Marketing Trainee,0-1,"Fundamentos de growth marketing, herramientas básicas de adquisición, conceptos de conversión, análisis básico de embudos"
+Marketing,Growth Marketing Junior,0-2,"Implementación de tácticas de growth, optimización básica de conversión, A/B testing simple, análisis de KPIs de crecimiento"
+Marketing,Growth Marketing Mid-level,2-4,"Estrategias de crecimiento multicanal, optimización de embudos, experimentación avanzada, growth loops básicos, user acquisition"
+Marketing,Growth Marketing Senior,4-7,"Desarrollo de estrategias de growth, modelos de adquisición/activación/retención, mentorización, modelado de LTV, frameworks"
+Marketing,Growth Marketing Tech Lead,7-10,"Liderazgo de equipos de growth, definición de NSM, estrategias de growth accounting, experimentación a escala, optimización CAC"
+Marketing,Growth Marketing Architect,8-12,"Diseño de arquitecturas de growth, estrategias corporativas de crecimiento, frameworks multi-producto, investigación avanzada"
+Marketing,Principal Growth Manager,10-15,"Liderazgo de prácticas de growth, innovación en modelos de crecimiento, estrategia corporativa, consultoría interna"
+Marketing,Growth Director,12-18,"Dirección de growth organizacional, estrategia global de crecimiento, transformación de negocio, gestión de growth teams"
+Marketing,VP of Growth,15+,"Liderazgo ejecutivo de growth, visión estratégica global, desarrollo organizacional, estrategia corporativa, transformación"
+
+# Marketing - Performance Marketer
+Marketing,Performance Marketing Trainee,0-1,"Fundamentos de marketing de performance, herramientas básicas, principios de publicidad digital, análisis elemental de métricas"
+Marketing,Performance Marketing Junior,0-2,"Implementación de campañas digital básicas, configuración de ads, análisis simple de resultados, ajustes básicos de audiencias"
+Marketing,Performance Marketing Mid-level,2-4,"Gestión de campañas multicanal, estrategias de optimización, análisis de ROAS/CPA, bid management, testing, remarketing"
+Marketing,Performance Marketing Senior,4-7,"Desarrollo de estrategias de performance, optimización presupuestaria, análisis avanzado, atribución, mentorización, automatización"
+Marketing,Performance Marketing Tech Lead,7-10,"Liderazgo de equipos de performance, definición de estrategias multicanal, optimización avanzada de inversión, forecasting"
+Marketing,Performance Marketing Architect,8-12,"Diseño de arquitecturas de performance, estrategias integradas, frameworks de optimización, modelos de atribución avanzados"
+Marketing,Principal Performance Marketer,10-15,"Liderazgo de prácticas de performance, innovación en modelos, estrategia corporativa, consultoría interna, mentorización"
+Marketing,Performance Marketing Director,12-18,"Dirección de performance organizacional, estrategia global de inversión digital, transformación de resultados, gestión"
+Marketing,VP of Performance Marketing,15+,"Liderazgo ejecutivo de performance, visión estratégica global, desarrollo organizacional, estrategia corporativa, transformación"
+
+# Marketing - PR Specialist
+Marketing,PR Trainee,0-1,"Fundamentos de relaciones públicas, herramientas básicas, principios de comunicación corporativa, monitoreo básico de medios"
+Marketing,PR Junior,0-2,"Redacción de comunicados simples, relaciones básicas con medios, organización de eventos simples, monitoring, clipping básico"
+Marketing,PR Mid-level,2-4,"Desarrollo de estrategias de PR para proyectos, relaciones con medios, gestión de comunicados, crisis management básico, eventos"
+Marketing,PR Senior,4-7,"Estrategia de relaciones públicas, manejo de crisis, relaciones con stakeholders, mentorización, comunicación corporativa"
+Marketing,PR Tech Lead,7-10,"Liderazgo de equipos de PR, definición de estrategias de comunicación, gestión de crisis complejas, relaciones institucionales"
+Marketing,PR Architect,8-12,"Diseño de arquitecturas de comunicación, estrategias corporativas, frameworks de crisis management, investigación avanzada"
+Marketing,Principal PR Specialist,10-15,"Liderazgo de prácticas de PR, innovación en comunicación corporativa, estrategia corporativa, consultoría interna"
+Marketing,PR Director,12-18,"Dirección de PR organizacional, estrategia global de comunicación, transformación de reputación, gestión de equipos"
+Marketing,VP of Corporate Communications,15+,"Liderazgo ejecutivo de comunicación, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Marketing - Social Media Manager
+Marketing,Social Media Trainee,0-1,"Fundamentos de social media, plataformas básicas, creación de contenido simple, programación básica, monitoring elemental"
+Marketing,Social Media Junior,0-2,"Gestión diaria de redes sociales, creación de contenido, calendarios editoriales, interacción con usuarios, reporting básico"
+Marketing,Social Media Mid-level,2-4,"Estrategia de redes sociales, contenido avanzado, paid social básico, gestión de crisis, analytics, influencer marketing"
+Marketing,Social Media Senior,4-7,"Desarrollo de estrategias multicanal, paid social avanzado, mentorización, medición de ROI, estrategias de engagement"
+Marketing,Social Media Tech Lead,7-10,"Liderazgo de equipos de social media, definición de estrategias integradas, gestión de crisis complejas, innovación en formatos"
+Marketing,Social Media Architect,8-12,"Diseño de arquitecturas de social media, estrategias corporativas, frameworks de governance, modelos de evaluación de impacto"
+Marketing,Principal Social Media Manager,10-15,"Liderazgo de prácticas de social, innovación en estrategias, consultoría interna, mentorización de equipos"
+Marketing,Social Media Director,12-18,"Dirección de social media organizacional, estrategia global de presencia digital, transformación social, gestión de equipos"
+Marketing,VP of Social Media,15+,"Liderazgo ejecutivo de social media, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Marketing - Community Manager
+Marketing,Community Management Trainee,0-1,"Fundamentos de community management, herramientas básicas, interacción elemental, moderación básica, reportes simples"
+Marketing,Community Management Junior,0-2,"Gestión diaria de comunidades, interacción con usuarios, moderación, resolución de conflictos básicos, creación de contenido"
+Marketing,Community Management Mid-level,2-4,"Estrategia de comunidad, contenido especializado, manejo de crisis, activaciones, eventos virtuales, programas de embajadores"
+Marketing,Community Management Senior,4-7,"Desarrollo de estrategias de comunidad, programas de engagement, mentorización, medición de impacto, estrategias de crecimiento"
+Marketing,Community Management Tech Lead,7-10,"Liderazgo de equipos de community, definición de estrategias de comunidad, gestión de crisis complejas, programas de fidelización"
+Marketing,Community Management Architect,8-12,"Diseño de arquitecturas de comunidad, estrategias corporativas, frameworks de engagement, investigación avanzada de audiencias"
+Marketing,Principal Community Manager,10-15,"Liderazgo de prácticas de community, innovación en estrategias, consultoría interna, mentorización, modelos de desarrollo"
+Marketing,Community Director,12-18,"Dirección de comunidad organizacional, estrategia global de comunidad, transformación organizacional, gestión de equipos"
+Marketing,VP of Community,15+,"Liderazgo ejecutivo de comunidad, visión estratégica global, desarrollo organizacional, estrategia corporativa, transformación"
+
+# Legal - Legal Counsel
+Legal,Legal Counsel Trainee,0-1,"Fundamentos jurídicos, investigación legal básica, redacción jurídica elemental, conocimiento de leyes fundamentales, procedimientos básicos"
+Legal,Legal Counsel Junior,0-2,"Investigación jurídica, redacción de documentos sencillos, apoyo en contratos básicos, seguimiento de casos, apoyo a abogados senior"
+Legal,Legal Counsel Mid-level,2-4,"Gestión de contratos, asesoría legal en áreas específicas, compliance básico, litigios simples, investigación jurídica avanzada"
+Legal,Legal Counsel Senior,4-7,"Asesoramiento legal complejo, negociación de contratos importantes, gestión de litigios, asesoramiento a directivos, due diligence"
+Legal,Legal Counsel Tech Lead,7-10,"Liderazgo de equipos legales, definición de protocolos, gestión de asuntos legales corporativos, asesoramiento a ejecutivos"
+Legal,Legal Counsel Architect,8-12,"Diseño de estrategias legales complejas, gestión de riesgos legal, compliance avanzado, protección de activos empresariales"
+Legal,Principal Legal Counsel,10-15,"Liderazgo de prácticas legales, innovación jurídica, estrategia corporativa, consultoría interna, mentorización de equipos"
+Legal,Legal Director,12-18,"Dirección de departamentos legales, estrategia legal global, innovación en procesos, gestión de managers, planificación a largo plazo"
+Legal,General Counsel/VP Legal,15+,"Liderazgo ejecutivo legal, estrategia legal a nivel de empresa, gestión presupuestaria global, desarrollo organizacional, alianzas"
+
+# Legal - Compliance Officer
+Legal,Compliance Officer Trainee,0-1,"Fundamentos de compliance, normativa básica, herramientas elementales de control, apoyo en procesos de cumplimiento, documentación básica"
+Legal,Compliance Officer Junior,0-2,"Implementación de políticas de compliance, monitoreo básico de cumplimiento, educación básica a empleados, apoyo en auditorías"
+Legal,Compliance Officer Mid-level,2-4,"Gestión de programas de compliance, evaluación de riesgos intermedios, desarrollo de políticas, investigaciones internas básicas"
+Legal,Compliance Officer Senior,4-7,"Desarrollo de programas de compliance complejos, análisis de riesgos avanzado, gestión de investigaciones, mentorización, reportes"
+Legal,Compliance Officer Tech Lead,7-10,"Liderazgo de equipos de compliance, definición de frameworks de cumplimiento, estrategias de control, relación con reguladores"
+Legal,Compliance Officer Architect,8-12,"Diseño de arquitecturas de compliance, estrategias corporativas, frameworks de riesgos, implementación de sistemas avanzados"
+Legal,Principal Compliance Officer,10-15,"Liderazgo de prácticas de compliance, innovación en metodologías, consultoría interna, mentorización, estrategia regulatoria"
+Legal,Compliance Director,12-18,"Dirección de compliance organizacional, estrategia global de cumplimiento, transformación de procesos, gestión de crisis regulatorias"
+Legal,Chief Compliance Officer,15+,"Liderazgo ejecutivo de compliance, visión estratégica global, desarrollo de cultura ética, estrategia corporativa, gestión de riesgos"
+
+# Legal - Contract Manager
+Legal,Contract Manager Trainee,0-1,"Fundamentos de gestión contractual, plantillas básicas, procesos elementales, bases de contratos, apoyo documental"
+Legal,Contract Manager Junior,0-2,"Redacción de contratos básicos, revisión de términos simples, seguimiento de vencimientos, gestión documental, apoyo en negociaciones"
+Legal,Contract Manager Mid-level,2-4,"Negociación de contratos de complejidad media, gestión de repositorios, análisis de cláusulas, implementación de workflows"
+Legal,Contract Manager Senior,4-7,"Gestión avanzada de contratos complejos, análisis de riesgo contractual, optimización de procesos, mentorización, negociaciones"
+Legal,Contract Manager Tech Lead,7-10,"Liderazgo de equipos de contratos, definición de frameworks contractuales, estandarización de procesos, gestión de riesgo"
+Legal,Contract Manager Architect,8-12,"Diseño de arquitecturas contractuales, estrategias corporativas, frameworks legales, metodologías de gestión avanzada"
+Legal,Principal Contract Manager,10-15,"Liderazgo de prácticas contractuales, innovación en gestión, estrategia corporativa, consultoría interna, mentorización"
+Legal,Contract Management Director,12-18,"Dirección de gestión contractual, estrategia global, transformación de procesos, optimización de gestión, alineación con negocio"
+Legal,VP of Contract Management,15+,"Liderazgo ejecutivo de contratos, visión estratégica global, desarrollo organizacional, estrategia corporativa, transformación"
+
+# Legal - IP Specialist
+Legal,IP Specialist Trainee,0-1,"Fundamentos de propiedad intelectual, herramientas básicas, procedimientos elementales, bases de patentes y marcas"
+Legal,IP Specialist Junior,0-2,"Gestión básica de registros, búsquedas de anterioridad simples, apoyo en solicitudes, documentación de PI, monitoreo básico"
+Legal,IP Specialist Mid-level,2-4,"Gestión de carteras de PI media complejidad, solicitudes nacionales, estrategias de protección básicas, análisis de riesgos"
+Legal,IP Specialist Senior,4-7,"Desarrollo de estrategias de PI complejas, gestión internacional, valoración de activos intangibles, mentorización, litigios"
+Legal,IP Specialist Tech Lead,7-10,"Liderazgo de equipos de PI, definición de estrategias de protección, portfolios complejos, gestión de litigios relevantes"
+Legal,IP Specialist Architect,8-12,"Diseño de arquitecturas de protección de PI, estrategias corporativas, frameworks de valoración, planificación global"
+Legal,Principal IP Specialist,10-15,"Liderazgo de prácticas de PI, innovación en protección, estrategia corporativa, consultoría interna, mentorización de equipos"
+Legal,IP Director,12-18,"Dirección de PI organizacional, estrategia global, valoración de portfolios, transformación de procesos, alineación con I+D"
+Legal,Chief IP Officer,15+,"Liderazgo ejecutivo de PI, visión estratégica global, desarrollo de activos intangibles, estrategia corporativa, transformación"
+
+# Legal - Data Privacy Officer
+Legal,Data Privacy Officer Trainee,0-1,"Fundamentos de protección de datos, normativa básica, procedimientos elementales, documentación básica, conceptos de privacidad"
+Legal,Data Privacy Officer Junior,0-2,"Implementación de políticas básicas, análisis simple de riesgos, documentación de procesos, apoyo en evaluaciones de impacto"
+Legal,Data Privacy Officer Mid-level,2-4,"Gestión de programas de privacidad, evaluaciones de impacto, desarrollo de políticas, investigación de incidentes básicos"
+Legal,Data Privacy Officer Senior,4-7,"Desarrollo de frameworks de privacidad, gestión de programas complejos, análisis avanzado de riesgos, mentorización, crisis"
+Legal,Data Privacy Officer Tech Lead,7-10,"Liderazgo de equipos de privacidad, estrategias de implementación multinacional, relación con autoridades, governance"
+Legal,Data Privacy Officer Architect,8-12,"Diseño de arquitecturas de privacidad, estrategias corporativas, frameworks de cumplimiento global, metodologías avanzadas"
+Legal,Principal Data Privacy Officer,10-15,"Liderazgo de prácticas de privacidad, innovación en protección de datos, estrategia corporativa, consultoría interna"
+Legal,Data Privacy Director,12-18,"Dirección de privacidad organizacional, estrategia global, transformación de procesos, gestión de crisis de privacidad"
+Legal,Chief Privacy Officer,15+,"Liderazgo ejecutivo de privacidad, visión estratégica global, desarrollo organizacional, estrategia corporativa, transformación"
+
+# Legal - Legal Manager
+Legal,Legal Manager Trainee,0-1,"Fundamentos de gestión legal, herramientas básicas, procesos elementales, conceptos de organización jurídica, comunicación"
+Legal,Legal Manager Junior,0-2,"Gestión básica de procesos legales, coordinación simple de equipos, seguimiento de casos, reportes básicos, administración"
+Legal,Legal Manager Mid-level,2-4,"Gestión de equipos legales pequeños, optimización de procesos internos, coordinación con externos, presupuestos básicos"
+Legal,Legal Manager Senior,4-7,"Gestión de departamentos legales, optimización de recursos, análisis de eficiencia, mentorización, estrategias departamentales"
+Legal,Legal Manager Tech Lead,7-10,"Liderazgo de equipos multidisciplinares, definición de procesos optimizados, gestión de recursos avanzada, presupuestos"
+Legal,Legal Manager Architect,8-12,"Diseño de estructuras legales corporativas, estrategias operativas, frameworks de eficiencia, metodologías avanzadas"
+Legal,Principal Legal Manager,10-15,"Liderazgo de prácticas de gestión legal, innovación en operaciones, estrategia corporativa, consultoría interna, mentorización"
+Legal,Legal Operations Director,12-18,"Dirección de operaciones legales, estrategia global, transformación de departamentos, optimización avanzada, alineación"
+Legal,VP Legal Operations,15+,"Liderazgo ejecutivo de operaciones legales, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Operaciones - Operations Manager
+Operaciones,Operations Manager Trainee,0-1,"Fundamentos de operaciones, herramientas básicas, procesos elementales, análisis básico de datos, comunicación organizacional"
+Operaciones,Operations Manager Junior,0-2,"Apoyo en procesos operativos, análisis básico de datos, documentación de procedimientos, mejoras simples, seguimiento de KPIs"
+Operaciones,Operations Manager Mid-level,2-4,"Gestión de procesos, análisis de eficiencia, implementación de mejoras, reporting avanzado, automatización básica"
+Operaciones,Operations Manager Senior,4-7,"Optimización de procesos complejos, análisis avanzado de datos operativos, liderazgo de proyectos, mentorización"
+Operaciones,Operations Manager Tech Lead,7-10,"Liderazgo de equipos operativos, definición de procesos estratégicos, gestión de proyectos complejos, mejora continua"
+Operaciones,Operations Manager Architect,8-12,"Diseño de estrategias operativas complejas, transformación de procesos, escalabilidad operativa, eficiencia organizacional"
+Operaciones,Principal Operations Manager,10-15,"Gestión de múltiples áreas operativas, planificación estratégica, optimización global, innovación operacional"
+Operaciones,Operations Director,12-18,"Dirección de departamentos operativos, estrategia operacional global, innovación, gestión de managers, planificación"
+Operaciones,VP of Operations/COO,15+,"Liderazgo ejecutivo operacional, estrategia a nivel de empresa, gestión global, desarrollo organizacional, alianzas"
+
+# Operaciones - Business Operations Manager
+Operaciones,Business Operations Manager Trainee,0-1,"Fundamentos de operaciones de negocio, procesos básicos, anaílisis elemental, comunicación entre departamentos"
+Operaciones,Business Operations Manager Junior,0-2,"Apoyo en procesos operativos de negocio, análisis básico, reportes simples, coordinación entre equipos, mejoras básicas"
+Operaciones,Business Operations Manager Mid-level,2-4,"Gestión de procesos de negocio, análisis de rendimiento, optimización básica, coordinación cross-departamental"
+Operaciones,Business Operations Manager Senior,4-7,"Optimización de procesos de negocio complejos, alineación con estrategia, proyectos transversales, mentorización"
+Operaciones,Business Operations Manager Tech Lead,7-10,"Liderazgo de equipos de operaciones de negocio, definición de frameworks operativos, integración entre departamentos"
+Operaciones,Business Operations Manager Architect,8-12,"Diseño de arquitecturas operativas de negocio, estrategias corporativas, frameworks de eficiencia, alineación global"
+Operaciones,Principal Business Operations Manager,10-15,"Liderazgo de operaciones de negocio estratégicas, innovación en procesos, estrategia corporativa, mentorización"
+Operaciones,Business Operations Director,12-18,"Dirección de operaciones de negocio, estrategia global, transformación organizacional, alineación con dirección"
+Operaciones,VP of Business Operations,15+,"Liderazgo ejecutivo de operaciones de negocio, visión estratégica global, transformación corporativa, estrategia"
+
+# Operaciones - Strategy Consultant
+Operaciones,Strategy Consultant Trainee,0-1,"Fundamentos de estrategia empresarial, herramientas básicas de análisis, investigación elemental, apoyo en reportes"
+Operaciones,Strategy Consultant Junior,0-2,"Análisis estratégico básico, investigación de mercado, documentación de hallazgos, apoyo en presentaciones, modelos simples"
+Operaciones,Strategy Consultant Mid-level,2-4,"Desarrollo de estrategias de complejidad media, frameworks de análisis, modelos de negocio, investigación avanzada"
+Operaciones,Strategy Consultant Senior,4-7,"Diseño de estrategias complejas, análisis de escenarios, modelado avanzado, facilitación de talleres, mentorización"
+Operaciones,Strategy Consultant Tech Lead,7-10,"Liderazgo de proyectos estratégicos, definición de metodologías, estrategias de transformación, asesoramiento ejecutivo"
+Operaciones,Strategy Consultant Architect,8-12,"Diseño de arquitecturas estratégicas corporativas, frameworks de transformación, estrategias disruptivas, visión global"
+Operaciones,Principal Strategy Consultant,10-15,"Liderazgo de prácticas estratégicas, innovación en metodologías, estrategia corporativa, consultoría ejecutiva"
+Operaciones,Strategy Director,12-18,"Dirección estratégica organizacional, visión global, transformación de modelos de negocio, liderazgo de cambio"
+Operaciones,Chief Strategy Officer,15+,"Liderazgo ejecutivo de estrategia, visión estratégica corporativa, desarrollo organizacional, innovación disruptiva"
+
+# Operaciones - Customer Service Specialist
+Operaciones,Customer Service Specialist Trainee,0-1,"Fundamentos de atención al cliente, herramientas básicas, procesos elementales, comunicación básica, empatía"
+Operaciones,Customer Service Specialist Junior,0-2,"Atención de casos básicos, gestoría de incidencias simples, comunicación efectiva, seguimiento de protocolos básicos"
+Operaciones,Customer Service Specialist Mid-level,2-4,"Resolución de casos complejos, gestión de escalaciones, comunicación avanzada, mejora de protocolos, análisis básico"
+Operaciones,Customer Service Specialist Senior,4-7,"Gestión de crisis de servicio, análisis avanzado de satisfacción, optimización de procesos, mentorización, estrategias"
+Operaciones,Customer Service Specialist Tech Lead,7-10,"Liderazgo de equipos de atención, definición de protocolos avanzados, estrategias de fidelización, gestión de experiencia"
+Operaciones,Customer Service Specialist Architect,8-12,"Diseño de arquitecturas de servicio, estrategias corporativas, frameworks de experiencia cliente, metodologías avanzadas"
+Operaciones,Principal Customer Service Specialist,10-15,"Liderazgo de prácticas de atención, innovación en servicio, estrategia corporativa de experiencia, transformación"
+Operaciones,Customer Service Director,12-18,"Dirección de servicio al cliente, estrategia global, transformación de experiencia, optimización multicanal, indicadores"
+Operaciones,VP of Customer Service,15+,"Liderazgo ejecutivo de servicio, visión estratégica global, desarrollo organizacional, innovación en experiencia"
+
+# Operaciones - Support Specialist
+Operaciones,Support Specialist Trainee,0-1,"Fundamentos de soporte técnico, herramientas básicas, procesos elementales, documentación básica, comunicación"
+Operaciones,Support Specialist Junior,0-2,"Resolución de incidencias básicas, investigación simple de problemas, documentación, seguimiento de protocolos, tickets"
+Operaciones,Support Specialist Mid-level,2-4,"Resolución de problemas complejos, análisis de causa raíz básico, mejora de procedimientos, reportes de tendencias"
+Operaciones,Support Specialist Senior,4-7,"Gestión avanzada de incidencias críticas, análisis profundo, optimización de procesos, mentorización, mejora continua"
+Operaciones,Support Specialist Tech Lead,7-10,"Liderazgo de equipos de soporte, definición de frameworks de resolución, estrategias preventivas, gestión del conocimiento"
+Operaciones,Support Specialist Architect,8-12,"Diseño de arquitecturas de soporte, estrategias corporativas, sistemas avanzados de resolución, metodologías escalables"
+Operaciones,Principal Support Specialist,10-15,"Liderazgo de prácticas de soporte, innovación en metodologías, estrategia de soporte corporativo, transformación"
+Operaciones,Support Director,12-18,"Dirección de soporte organizacional, estrategia global, transformación de departamentos, alineación con negocio"
+Operaciones,VP of Support,15+,"Liderazgo ejecutivo de soporte, visión estratégica global, transformación organizacional, estrategia corporativa"
+
+# Operaciones - Operations Analyst
+Operaciones,Operations Analyst Trainee,0-1,"Fundamentos de análisis operativo, herramientas básicas de datos, procesos elementales, reportes básicos, documentación"
+Operaciones,Operations Analyst Junior,0-2,"Análisis operativo básico, reportes simples, seguimiento de métricas, documentación de procesos, identificación de mejoras"
+Operaciones,Operations Analyst Mid-level,2-4,"Análisis de eficiencia operativa, dashboards avanzados, identificación de cuellos de botella, optimización básica"
+Operaciones,Operations Analyst Senior,4-7,"Análisis operativo complejo, modelado de procesos, optimización avanzada, mentorización, proyectos de mejora continua"
+Operaciones,Operations Analyst Tech Lead,7-10,"Liderazgo de equipos de análisis, definición de frameworks analíticos, estrategias de análisis predictivo, KPIs avanzados"
+Operaciones,Operations Analyst Architect,8-12,"Diseño de arquitecturas analíticas operativas, estrategias corporativas, frameworks de optimización, metodologías avanzadas"
+Operaciones,Principal Operations Analyst,10-15,"Liderazgo de prácticas de análisis operacional, innovación en metodologías, estrategia corporativa, transformación"
+Operaciones,Operations Analytics Director,12-18,"Dirección de análisis operacional, estrategia global, transformación de procesos, alineación con dirección ejecutiva"
+Operaciones,VP of Operations Analytics,15+,"Liderazgo ejecutivo analítico, visión estratégica global, desarrollo organizacional basado en datos, transformación"
+
+# Finanzas - Financial Analyst
+Finanzas,Financial Analyst Trainee,0-1,"Fundamentos de análisis financiero, Excel básico, reporting elemental, cálculos simples, conceptos financieros básicos"
+Finanzas,Financial Analyst Junior,0-2,"Análisis financiero básico, reporting periódico, modelos simples, análisis de desviaciones, presupuestos básicos"
+Finanzas,Financial Analyst Mid-level,2-4,"Modelado financiero intermedio, análisis completos, forecasting, planificación financiera, business partnering básico"
+Finanzas,Financial Analyst Senior,4-7,"Modelado financiero avanzado, análisis estratégico, valoración, planificación compleja, mentorización, optimización"
+Finanzas,Financial Analyst Tech Lead,7-10,"Liderazgo de equipos analíticos, definición de metodologías, análisis estratégico, impacto en negocio, proyectos complejos"
+Finanzas,Financial Analyst Architect,8-12,"Diseño de sistemas analíticos financieros, estrategias corporativas, frameworks de análisis, modelado avanízado"
+Finanzas,Principal Financial Analyst,10-15,"Liderazgo de prácticas analíticas, innovación en metodologías, estrategia corporativa, consultoría interna estratégica"
+Finanzas,Financial Analysis Director,12-18,"Dirección analítica financiera, estrategia global, transformación de capacidades, alineación con dirección ejecutiva"
+Finanzas,VP of Financial Analysis,15+,"Liderazgo ejecutivo analítico, visión estratégica global, desarrollo organizacional, estrategia financiera corporativa"
+
+# Finanzas - Accountant
+Finanzas,Accountant Trainee,0-1,"Fundamentos de contabilidad, asientos básicos, ciclo contable básico, software contable elemental, normativa básica"
+Finanzas,Accountant Junior,0-2,"Registro contable, conciliaciones, cierre mensual básico, informes simples, declaraciones fiscales básicas"
+Finanzas,Accountant Mid-level,2-4,"Cierre contable completo, preparación de estados financieros, análisis de cuentas, reporting avanzado, normativa avanzada"
+Finanzas,Accountant Senior,4-7,"Contabilidad avanzada, optimización de procesos contables, due diligence, mentorización, relación con auditores"
+Finanzas,Accountant Tech Lead,7-10,"Liderazgo de equipos contables, definición de políticas, implementación de normativas, proyectos de transformación"
+Finanzas,Accountant Architect,8-12,"Diseño de sistemas contables, estrategias corporativas, frameworks de cumplimiento, metodologías avanzadas de control"
+Finanzas,Principal Accountant,10-15,"Liderazgo de prácticas contables, innovación en procesos, estrategia corporativa, consultoría interna, regulaciones"
+Finanzas,Accounting Director,12-18,"Dirección contable global, estrategia financiera, transformación de procesos, alineación con dirección ejecutiva"
+Finanzas,VP of Accounting,15+,"Liderazgo ejecutivo contable, visión estratégica global, desarrollo organizacional, estrategia corporativa, gobernanza"
+
+# Finanzas - Controller
+Finanzas,Controller Trainee,0-1,"Fundamentos de control de gestión, procesos básicos de control, reporting elemental, seguimiento de presupuestos básico"
+Finanzas,Controller Junior,0-2,"Control presupuestario básico, análisis de desviaciones simple, reporting periódico, KPIs básicos, procesos financieros"
+Finanzas,Controller Mid-level,2-4,"Control de gestión intermedio, análisis de rentabilidad, presupuestos complejos, reporting avanzado, procesos de control"
+Finanzas,Controller Senior,4-7,"Control de gestión avanzado, optimización financiera, business partnering, mentorización, mejora de procesos financieros"
+Finanzas,Controller Tech Lead,7-10,"Liderazgo de equipos de control, definición de políticas, estrategias de control financiero, gestión de riesgos"
+Finanzas,Controller Architect,8-12,"Diseño de arquitecturas de control, estrategias corporativas, frameworks de control interno, planificación estratégica"
+Finanzas,Principal Controller,10-15,"Liderazgo de prácticas de controlling, innovación en metodologías, estrategia corporativa, business intelligence"
+Finanzas,Controlling Director,12-18,"Dirección de control financiero global, estrategia corporativa, transformación financiera, gestión de rendimiento"
+Finanzas,VP of Controlling,15+,"Liderazgo ejecutivo de control financiero, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Finanzas - Finance Manager
+Finanzas,Finance Manager Trainee,0-1,"Fundamentos de gestión financiera, procesos básicos, reporting elemental, herramientas financieras básicas"
+Finanzas,Finance Manager Junior,0-2,"Gestión financiera básica, reporting simple, coordinación de equipos pequeños, presupuestos básicos, mejoras simples"
+Finanzas,Finance Manager Mid-level,2-4,"Gestión financiera intermedia, análisis de procesos, implementación de mejoras, relación con departamentos"
+Finanzas,Finance Manager Senior,4-7,"Gestión financiera avanzada, optimización de recursos, planificación estratégica, mentorización, estrategias financieras"
+Finanzas,Finance Manager Tech Lead,7-10,"Liderazgo de equipos financieros, definición de estrategias, optimización global, gestión presupuestaria avanzada"
+Finanzas,Finance Manager Architect,8-12,"Diseño de estructuras financieras, estrategias corporativas, frameworks de gestión, planificación estratégica global"
+Finanzas,Principal Finance Manager,10-15,"Liderazgo de prácticas financieras, innovación en gestión, estrategia corporativa, consultoría interna, mentorización"
+Finanzas,Finance Director,12-18,"Dirección financiera global, estrategia corporativa, transformación de departamentos, alineación con negocio"
+Finanzas,Chief Financial Officer,15+,"Liderazgo ejecutivo financiero, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Finanzas - Investment Analyst
+Finanzas,Investment Analyst Trainee,0-1,"Fundamentos de análisis de inversiones, herramientas básicas, mercados financieros elementales, productos básicos"
+Finanzas,Investment Analyst Junior,0-2,"Análisis de inversiones básico, valoración simple, due diligence básica, investigación de mercados, reportes simples"
+Finanzas,Investment Analyst Mid-level,2-4,"Valoración de activos diversos, análisis financiero intermedio, modelos DCF, estrategias de inversión, reporting avanzado"
+Finanzas,Investment Analyst Senior,4-7,"Análisis de inversiones complejos, estrategias avanzadas, due diligence completa, mentorización, recomendaciones estratégicas"
+Finanzas,Investment Analyst Tech Lead,7-10,"Liderazgo de equipos de inversión, definición de criterios, estrategias avanzadas, gestión de portfolios complejos"
+Finanzas,Investment Analyst Architect,8-12,"Diseño de arquitecturas de inversión, estrategias corporativas, frameworks de valoración, models de asignación de activos"
+Finanzas,Principal Investment Analyst,10-15,"Liderazgo de prácticas de inversión, innovación en metodologías, estrategia corporativa, decisiones estratégicas"
+Finanzas,Investment Director,12-18,"Dirección de estrategias de inversión global, transformación de carteras, optimización de capital, estrategia ejecutiva"
+Finanzas,Chief Investment Officer,15+,"Liderazgo ejecutivo de inversiones, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Finanzas - Tax Specialist
+Finanzas,Tax Specialist Trainee,0-1,"Fundamentos de fiscalidad, normativa básica, procesos tributarios elementales, declaraciones simples, software básico"
+Finanzas,Tax Specialist Junior,0-2,"Preparación de impuestos básicos, cumplimiento fiscal simple, investigación básica, documentación, reporting básico"
+Finanzas,Tax Specialist Mid-level,2-4,"Planificación fiscal intermedia, gestión de compliance, optimización básica, investigación fiscal, relación con autoridades"
+Finanzas,Tax Specialist Senior,4-7,"Planificación fiscal compleja, optimización avanzada, fiscalidad internacional, mentorización, asesoramiento a directivos"
+Finanzas,Tax Specialist Tech Lead,7-10,"Liderazgo de equipos fiscales, definición de estrategias tributarias, gestión de riesgos fiscales, proyectos complejos"
+Finanzas,Tax Specialist Architect,8-12,"Diseño de arquitecturas fiscales, estrategias corporativas, frameworks de optimización, estructuración internacional"
+Finanzas,Principal Tax Specialist,10-15,"Liderazgo de prácticas fiscales, innovación en planificación, estrategia corporativa, consultoría interna estratégica"
+Finanzas,Tax Director,12-18,"Dirección fiscal global, estrategia tributaria, transformación de procesos, gestión de relaciones con autoridades"
+Finanzas,VP of Tax/Chief Tax Officer,15+,"Liderazgo ejecutivo fiscal, visión estratégica global, desarrollo organizacional, estrategia corporativa fiscal"
+
+# Finanzas - Auditor
+Finanzas,Auditor Trainee,0-1,"Fundamentos de auditoría, procesos básicos, pruebas elementales, documentación básica, normativa elemental"
+Finanzas,Auditor Junior,0-2,"Pruebas de auditoría básicas, documentación de hallazgos simples, asistencia en verificaciones, apoyo en reportes"
+Finanzas,Auditor Mid-level,2-4,"Auditoría de procesos completos, evaluación de controles, procedimientos sustantivos, comunicación con clientes"
+Finanzas,Auditor Senior,4-7,"Gestión de auditorías complejas, evaluación de riesgos, optimización de procedimientos, mentorización, informes finales"
+Finanzas,Auditor Tech Lead,7-10,"Liderazgo de equipos de auditoría, definición de metodologías, estrategias de evaluación, relación con stakeholders"
+Finanzas,Auditor Architect,8-12,"Diseño de sistemas de auditoría, estrategias corporativas, frameworks de evaluación de riesgos, auditoría avanzada"
+Finanzas,Principal Auditor,10-15,"Liderazgo de prácticas de auditoría, innovación en metodologías, estrategia corporativa, consultoría interna, assurance"
+Finanzas,Audit Director,12-18,"Dirección de auditoría global, estrategia de assurance, transformación de departamentos, alineación con dirección"
+Finanzas,VP of Audit/Chief Audit Executive,15+,"Liderazgo ejecutivo de auditoría, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Recursos Humanos - HR Generalist
+Recursos Humanos,HR Generalist Trainee,0-1,"Fundamentos de recursos humanos, procesos básicos, legislación laboral básica, comunicación elemental, apoyo administrativo"
+Recursos Humanos,HR Generalist Junior,0-2,"Gestión básica de personal, procesos administrativos, atención a empleados, apoyo en reclutamiento, reportes simples"
+Recursos Humanos,HR Generalist Mid-level,2-4,"Gestión de procesos de RRHH, análisis de satisfacción, implementación de políticas, mejora de procedimientos, reporting"
+Recursos Humanos,HR Generalist Senior,4-7,"Desarrollo de políticas de RRHH, optimización de procesos, gestión de proyectos, asesoría a managers, resoluciones complejas"
+Recursos Humanos,HR Generalist Tech Lead,7-10,"Liderazgo de áreas de RRHH, definición de estrategias, proyectos transversales, asesoría a directivos, mejora continua"
+Recursos Humanos,HR Generalist Architect,8-12,"Diseño de arquitecturas de RRHH, estrategias corporativas, frameworks de gestión, transformación organizacional"
+Recursos Humanos,Principal HR Generalist,10-15,"Liderazgo de prácticas de RRHH, innovación en metodologías, estrategia corporativa, consultoría interna, employee experience"
+Recursos Humanos,HR Director,12-18,"Dirección de estrategia de personas, visión global, transformación cultural, alineación con objetivos de negocio"
+Recursos Humanos,Chief Human Resources Officer,15+,"Liderazgo ejecutivo de RRHH, visión estratégica global, desarrollo organizacional, estrategia corporativa, transformación"
+
+# Recursos Humanos - Talent Acquisition Specialist
+Recursos Humanos,Talent Acquisition Specialist Trainee,0-1,"Fundamentos de reclutamiento, herramientas básicas de selección, entrevistas elementales, comunicación básica"
+Recursos Humanos,Talent Acquisition Specialist Junior,0-2,"Sourcing básico, entrevistas iniciales, gestión de procesos simples, evaluación de candidatos, coordinación de entrevistas"
+Recursos Humanos,Talent Acquisition Specialist Mid-level,2-4,"Gestión de procesos completos, técnicas avanzadas de sourcing, entrevistas estructuradas, employer branding básico"
+Recursos Humanos,Talent Acquisition Specialist Senior,4-7,"Estrategias de reclutamiento, gestión de procesos complejos, onboarding avanzado, implementación de herramientas, mentorización"
+Recursos Humanos,Talent Acquisition Specialist Tech Lead,7-10,"Liderazgo de equipos de adquisición, estrategias avanzadas, relaciones con stakeholders, proyectos transversales"
+Recursos Humanos,Talent Acquisition Specialist Architect,8-12,"Diseño de arquitecturas de atracción, estrategias corporativas, frameworks de selección, metodologías innovadoras"
+Recursos Humanos,Principal Talent Acquisition Specialist,10-15,"Liderazgo de prácticas de adquisición, innovación en reclutamiento, estrategia corporativa, gestión estratégica"
+Recursos Humanos,Talent Acquisition Director,12-18,"Dirección de estrategias de atracción global, transformación de procesos, optimización de talent pipelines"
+Recursos Humanos,VP of Talent Acquisition,15+,"Liderazgo ejecutivo de adquisición, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Recursos Humanos - HR Business Partner
+Recursos Humanos,HR Business Partner Trainee,0-1,"Fundamentos de HR business partnering, procesos básicos de RRHH, comunicación elemental, apoyo a generalistas"
+Recursos Humanos,HR Business Partner Junior,0-2,"Apoyo básico a áreas, implementación de políticas sencillas, interpretación de necesidades, reporting básico"
+Recursos Humanos,HR Business Partner Mid-level,2-4,"Gestión de proyectos de RRHH, consultoría interna básica, implementación de cambios, mejora de procesos de área"
+Recursos Humanos,HR Business Partner Senior,4-7,"Consultoría interna avanzada, desarrollo de estrategias departamentales, gestión del cambio, coaching a managers"
+Recursos Humanos,HR Business Partner Tech Lead,7-10,"Liderazgo de equipos HRBP, definición de estrategias, alineación con negocio, proyectos estratégicos, asesoría directiva"
+Recursos Humanos,HR Business Partner Architect,8-12,"Diseño de arquitecturas de HR partnering, estrategias corporativas, alineación estratégica con negocio, transformación"
+Recursos Humanos,Principal HR Business Partner,10-15,"Liderazgo de prácticas de consultoría interna, innovación en HR partnering, estrategia corporativa, transformación"
+Recursos Humanos,HR Business Partner Director,12-18,"Dirección estratégica de consultoría, alineación global, transformación de procesos, optimización de servicios a negocio"
+Recursos Humanos,VP of HR Business Partnering,15+,"Liderazgo ejecutivo de HRBP, visión estratégica global, transformación organizacional, estrategia corporativa"
+
+# Recursos Humanos - Learning & Development Specialist
+Recursos Humanos,L&D Specialist Trainee,0-1,"Fundamentos de formación, herramientas básicas, procesos elementales, apoyo logístico, materiales de formación simples"
+Recursos Humanos,L&D Specialist Junior,0-2,"Desarrollo de formaciones básicas, implementación de programas sencillos, evaluación básica, coordinación logística"
+Recursos Humanos,L&D Specialist Mid-level,2-4,"Diseño de programas formativos, evaluación de necesidades, metodologías de aprendizaje, implementación técnica"
+Recursos Humanos,L&D Specialist Senior,4-7,"Desarrollo de estrategias formativas, programas complejos, evaluación de impacto, mentorización, gestión del conocimiento"
+Recursos Humanos,L&D Specialist Tech Lead,7-10,"Liderazgo de equipos de formación, metodologías innovadoras, estrategias de desarrollo, proyectos transversales"
+Recursos Humanos,L&D Specialist Architect,8-12,"Diseño de arquitecturas de aprendizaje, estrategias corporativas, frameworks de desarrollo, modelos de gestión del talento"
+Recursos Humanos,Principal L&D Specialist,10-15,"Liderazgo de prácticas de desarrollo, innovación en metodologías, estrategia corporativa, transformación del aprendizaje"
+Recursos Humanos,L&D Director,12-18,"Dirección de estrategias de desarrollo, visión global, transformación organizacional, alineación con objetivos de negocio"
+Recursos Humanos,Chief Learning Officer,15+,"Liderazgo ejecutivo de aprendizaje, visión estratégica global, transformación cultural, estrategia corporativa"
+
+# Recursos Humanos - Compensation & Benefits Specialist
+Recursos Humanos,C&B Specialist Trainee,0-1,"Fundamentos de compensación, procesos básicos, legislación laboral básica, estructuras salariales elementales"
+Recursos Humanos,C&B Specialist Junior,0-2,"Administración básica de compensación, estudios de mercado simples, gestión de beneficios básicos, reporting"
+Recursos Humanos,C&B Specialist Mid-level,2-4,"Diseño de estructuras salariales, análisis de equidad, gestión de beneficios, estudios salariales, presupuestos"
+Recursos Humanos,C&B Specialist Senior,4-7,"Desarrollo de políticas retributivas, estrategias de reconocimiento, planes de incentivos, negociación, mentorización"
+Recursos Humanos,C&B Specialist Tech Lead,7-10,"Liderazgo de estrategias de compensación, definición de políticas globales, proyectos transversales, gestión presupuestaria"
+Recursos Humanos,C&B Specialist Architect,8-12,"Diseño de arquitecturas retributivas, estrategias corporativas, frameworks de compensación global, planes ejecutivos"
+Recursos Humanos,Principal C&B Specialist,10-15,"Liderazgo de prácticas de compensación, innovación en estrategias retributivas, total reward, consultoría interna"
+Recursos Humanos,Compensation & Benefits Director,12-18,"Dirección estratégica de compensación, planificación global, transformación de programas, alineación con objetivos"
+Recursos Humanos,VP of Total Rewards,15+,"Liderazgo ejecutivo de compensación, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Administración - Administrative Assistant
+Administración,Administrative Assistant Trainee,0-1,"Fundamentos administrativos, atención telefónica básica, archivo básico, herramientas ofimáticas básicas, apoyo general"
+Administración,Administrative Assistant Junior,0-2,"Gestión documental básica, coordinación simple, agenda básica, comunicación interna, atención a clientes/proveedores"
+Administración,Administrative Assistant Mid-level,2-4,"Gestión administrativa completa, coordinación de actividades, organización de eventos simples, mejora de procesos"
+Administración,Administrative Assistant Senior,4-7,"Coordinación administrativa compleja, apoyo ejecutivo, organización de eventos, procesos administrativos avanzados"
+Administración,Administrative Assistant Tech Lead,7-10,"Liderazgo de equipos administrativos, definición de procedimientos, coordinación entre departamentos, proyectos especiales"
+Administración,Administrative Assistant Architect,8-12,"Diseño de sistemas administrativos, estrategias de eficiencia, optimización de procesos, metodologías innovadoras"
+Administración,Principal Administrative Assistant,10-15,"Liderazgo de prácticas administrativas, innovación en procesos, consultoría interna, mentorización de equipos"
+Administración,Administrative Director,12-18,"Dirección administrativa global, estrategia organizacional, transformación de procesos, alineación con dirección"
+Administración,VP of Administration,15+,"Liderazgo ejecutivo administrativo, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Administración - Office Manager
+Administración,Office Manager Trainee,0-1,"Fundamentos de gestión de oficinas, procesos básicos, compras elementales, coordinación básica, presupuestos simples"
+Administración,Office Manager Junior,0-2,"Gestión básica de instalaciones, compras de nivel bajo, coordinación de servicios básicos, reportes simples"
+Administración,Office Manager Mid-level,2-4,"Gestión integral de oficina, negociación con proveedores, coordinación de servicios, presupuestos, proyectos simples"
+Administración,Office Manager Senior,4-7,"Gestión avanzada de instalaciones, optimización de espacios, proyectos complejos, gestión presupuestaria, mentorización"
+Administración,Office Manager Tech Lead,7-10,"Liderazgo de equipos de facilities, definición de estrategias, proyectos de transformación, gestión de múltiples sedes"
+Administración,Office Manager Architect,8-12,"Diseño de entornos de trabajo, estrategias corporativas, optimización de recursos, planificación estratégica"
+Administración,Principal Office Manager,10-15,"Liderazgo de prácticas de gestión de espacios, innovación en entornos, estrategia corporativa, transformación"
+Administración,Facilities Director,12-18,"Dirección estratégica de instalaciones, planificación global, transformación de espacios, alineación con objetivos"
+Administración,VP of Workplace,15+,"Liderazgo ejecutivo de workplace, visión estratégica global, desarrollo de cultura de trabajo, estrategia corporativa"
+
+# Administración - Executive Assistant
+Administración,Executive Assistant Trainee,0-1,"Fundamentos de asistencia ejecutiva, comunicación básica, gestión de agenda elemental, coordinación básica"
+Administración,Executive Assistant Junior,0-2,"Gestión básica de agendas ejecutivas, coordinación simple de reuniones, comunicación profesional, preparación básica"
+Administración,Executive Assistant Mid-level,2-4,"Gestión integral de ejecutivos, coordinación compleja, preparación de informes, screening, comunicación efectiva"
+Administración,Executive Assistant Senior,4-7,"Asistencia estratégica a alta dirección, gestión de proyectos especiales, coordinación ejecutiva compleja, confidencialidad"
+Administración,Executive Assistant Tech Lead,7-10,"Liderazgo de equipos de asistentes, coordinación entre c-suite, proyectos transversales, representación ejecutiva"
+Administración,Executive Assistant Architect,8-12,"Diseño de sistemas de apoyo ejecutivo, estrategias corporativas, chief of staff, optimización de procesos ejecutivos"
+Administración,Principal Executive Assistant,10-15,"Liderazgo de prácticas ejecutivas, innovación en apoyo directivo, chief of staff, consultoría interna estratégica"
+Administración,Executive Operations Director,12-18,"Dirección de operaciones ejecutivas, estrategia organizacional, transformación de procesos, alineación con dirección"
+Administración,Chief of Staff,15+,"Liderazgo ejecutivo de apoyo, visión estratégica global, desarrollo organizacional, estrategia corporativa"
+
+# Sales - Sales Development Representative (SDR)
+Sales,SDR Trainee,0-1,"Fundamentos de ventas y prospecting, herramientas básicas de CRM, outreach elemental, investigación básica de prospectos, comunicación inicial"
+Sales,SDR Junior,0-2,"Prospecting estructurado, outbound básico, cualificación de leads, seguimiento de pipeline simple, demos introductorias, manejo de objeciones básicas"
+Sales,SDR Mid-level,2-4,"Estrategias de prospecting avanzadas, cualificación efectiva, outreach multicanal, construcción de relaciones iniciales, research de cuenta"
+Sales,SDR Senior,4-7,"Desarrollo de estrategias de outbound, mentorización de SDRs, creación de secuencias avanzadas, cualificación compleja, indicadores avanzados"
+Sales,SDR Team Lead,7-10,"Liderazgo de equipos SDR, definición de metodologías de prospecting, estrategias de generación de demanda, onboarding y training"
+Sales,SDR Architect,8-12,"Diseño de arquitecturas de prospecting, estrategias corporativas para outbound, frameworks de cualificación, metodologías avanzadas"
+Sales,Principal SDR Strategist,10-15,"Liderazgo de prácticas de prospecting, innovación en adquisición de cuentas, estrategia corporativa de demand gen, consultoría interna"
+Sales,Sales Development Director,12-18,"Dirección de desarrollo de ventas global, estrategia de pipeline, transformación de procesos de prospección, alineación con ventas"
+Sales,VP of Sales Development,15+,"Liderazgo ejecutivo de desarrollo de ventas, visión estratégica global, desarrollo organizacional, estrategia de adquisición"
+
+# Sales - Account Executive
+Sales,Account Executive Trainee,0-1,"Fundamentos de venta de software, ciclos de venta básicos, demos elementales, CRM básico, propuestas simples, comunicación comercial"
+Sales,Account Executive Junior,0-2,"Gestión de cuentas pequeñas/medianas, demostraciones de producto, negociación básica, manejo de objeciones, seguimiento de pipeline"
+Sales,Account Executive Mid-level,2-4,"Ciclos de venta completos, negociación efectiva, venta consultiva básica, manejo de stakeholders, propuestas personalizadas"
+Sales,Account Executive Senior,4-7,"Gestión de cuentas estratégicas, venta consultiva avanzada, negociación compleja, estrategias de expansión, mentorización"
+Sales,Account Executive Tech Lead,7-10,"Liderazgo de equipos de venta, implementación de metodologías, estrategias de account-based selling, planificación estratégica"
+Sales,Account Executive Architect,8-12,"Diseño de arquitecturas de venta, estrategias corporativas, frameworks de negociación, metodologías avanzadas de cierre"
+Sales,Principal Account Executive,10-15,"Liderazgo de prácticas de venta, innovación en metodologías, estrategia corporativa, consultoría interna, grandes cuentas"
+Sales,Sales Director,12-18,"Dirección de ventas territorial, estrategia comercial, transformación de procesos de venta, gestión de equipos comerciales"
+Sales,VP of Sales,15+,"Liderazgo ejecutivo de ventas, visión estratégica global, desarrollo organizacional, estrategia comercial corporativa"
+
+# Sales - Enterprise Account Executive
+Sales,Enterprise AE Trainee,0-1,"Fundamentos de venta enterprise, comprensión de ciclos complejos, procesos de compra corporativos, stakeholders en grandes empresas"
+Sales,Enterprise AE Junior,0-2,"Apoyo en cuentas enterprise, ventas técnicas básicas, entendimiento de procurement, mapeo básico de organizaciones, propuestas complejas"
+Sales,Enterprise AE Mid-level,2-4,"Gestión de cuentas enterprise medianas, venta multi-thread, mapeo de organizaciones, estrategias de expansión, propuestas complejas"
+Sales,Enterprise AE Senior,4-7,"Gestión de grandes cuentas estratégicas, venta C-level, negociación enterprise, influencia ejecutiva, strategic account planning"
+Sales,Enterprise AE Tech Lead,7-10,"Liderazgo de equipos enterprise, estrategias de grandes cuentas, venta multi-nivel, estrategias de expansión global, planificación"
+Sales,Enterprise AE Architect,8-12,"Diseño de arquitecturas de venta enterprise, estrategias corporativas, frameworks de venta compleja, metodologías C-level"
+Sales,Principal Enterprise AE,10-15,"Liderazgo de prácticas enterprise, innovación en metodologías, estrategia corporativa, consultoría interna, cuentas estratégicas"
+Sales,Enterprise Sales Director,12-18,"Dirección de ventas enterprise global, estrategia de grandes cuentas, transformación de procesos, gestión de equipos senior"
+Sales,VP of Enterprise Sales,15+,"Liderazgo ejecutivo de ventas enterprise, visión estratégica global, relaciones C-level, estrategia corporativa"
+
+# Sales - Sales Operations Specialist
+Sales,Sales Ops Trainee,0-1,"Fundamentos de operaciones de venta, CRM básico, procesos elementales, reporting básico, herramientas de productividad"
+Sales,Sales Ops Junior,0-2,"Administración de CRM, reportes básicos, apoyo en forecasting, gestión de territorios simple, procesos de oportunidades"
+Sales,Sales Ops Mid-level,2-4,"Optimización de procesos de venta, análisis de pipeline, forecasting efectivo, automatización básica, dashboards avanzados"
+Sales,Sales Ops Senior,4-7,"Diseño de procesos complejos, analytics avanzado, estrategias de territorio, compensación variable, mentorización, sistemas"
+Sales,Sales Ops Tech Lead,7-10,"Liderazgo de equipos de operaciones, frameworks de procesos, estrategias de productividad, integración de herramientas"
+Sales,Sales Ops Architect,8-12,"Diseño de arquitecturas de operaciones, estrategias corporativas, frameworks de eficiencia, metodologías de productividad"
+Sales,Principal Sales Ops Specialist,10-15,"Liderazgo de prácticas de operaciones, innovación en procesos, estrategia corporativa, consultoría interna, sistemas complejos"
+Sales,Sales Operations Director,12-18,"Dirección de operaciones de ventas global, estrategia de productividad, transformación de procesos, alineación con ventas"
+Sales,VP of Sales Operations,15+,"Liderazgo ejecutivo de operaciones, visión estratégica global, desarrollo organizacional, estrategia de eficiencia"
+
+# Sales - Customer Success Manager
+Sales,CSM Trainee,0-1,"Fundamentos de customer success, herramientas básicas, procesos elementales de onboarding, implementación básica, comunicación"
+Sales,CSM Junior,0-2,"Gestión de clientes pequeños/medianos, procesos de onboarding, business reviews básicos, apoyo en implementación, adoption tracking"
+Sales,CSM Mid-level,2-4,"Gestión integral de clientes, estrategias de adopción, QBRs efectivas, planes de valor, prevención de churn, upsell básico"
+Sales,CSM Senior,4-7,"Gestión de cuentas estratégicas, estrategias de retención complejas, expansión de cuentas, mentorización, manejo de crisis"
+Sales,CSM Tech Lead,7-10,"Liderazgo de equipos de CS, programas estratégicos, frameworks de valor, estrategias de crecimiento, procesos de escalabilidad"
+Sales,CSM Architect,8-12,"Diseño de arquitecturas de customer success, estrategias corporativas, frameworks de retención, metodologías de expansión"
+Sales,Principal Customer Success Manager,10-15,"Liderazgo de prácticas de CS, innovación en metodologías, estrategia corporativa, consultoría interna, programas globales"
+Sales,Customer Success Director,12-18,"Dirección de CS global, estrategia de retención, transformación de procesos, health scoring avanzado, alineación con ventas"
+Sales,VP of Customer Success,15+,"Liderazgo ejecutivo de CS, visión estratégica global, desarrollo organizacional, estrategia corporativa, retention metrics"
+
+# Sales - Solution Engineer / Sales Engineer
+Sales,Solution Engineer Trainee,0-1,"Fundamentos técnicos de ventas, demostraciones básicas, producto/plataforma elemental, integraciones básicas, POCs simples"
+Sales,Solution Engineer Junior,0-2,"Demostraciones técnicas, configuraciones básicas, apoyo en ciclos de venta, resoluciones técnicas simples, RFP/RFI básicos"
+Sales,Solution Engineer Mid-level,2-4,"POCs complejos, diseño de soluciones customizadas, demostraciones avanzadas, respuestas técnicas detalladas, argumentacion técnica"
+Sales,Solution Engineer Senior,4-7,"Arquitectura de soluciones complejas, estrategias técnicas de venta, RFPs enterprise, mentorización, manejo de objeciones técnicas"
+Sales,Solution Engineer Tech Lead,7-10,"Liderazgo de equipos técnicos de venta, estrategias de preventa, metodologías de implementación, orquestación de recursos"
+Sales,Solution Engineer Architect,8-12,"Diseño de arquitecturas técnicas, estrategias corporativas, frameworks de implementación, metodologías de evaluación"
+Sales,Principal Solution Engineer,10-15,"Liderazgo de prácticas de preventa, innovación técnica, estrategia de producto, consultoría interna, mentorización"
+Sales,Solutions Engineering Director,12-18,"Dirección de preventa global, estrategia técnica, transformación de procesos, alineación con ventas y producto"
+Sales,VP of Solutions Engineering,15+,"Liderazgo ejecutivo técnico de ventas, visión estratégica global, desarrollo organizacional, estrategia tecnológica"
+
+# Sales - Channel Sales Manager
+Sales,Channel Sales Trainee,0-1,"Fundamentos de ventas indirectas, modelos de partners básicos, herramientas elementales, procesos de distribución básicos"
+Sales,Channel Sales Junior,0-2,"Gestión de partners pequeños, habilitación básica, programas de canal simples, reporting de canal, apoyo en onboarding de partners"
+Sales,Channel Sales Mid-level,2-4,"Gestión integral de relaciones con partners, estrategias de capacitación, incentivos de canal, desarrollo de negocios conjuntos"
+Sales,Channel Sales Senior,4-7,"Gestión de partners estratégicos, desarrollo de ecosistemas, strategiás go-to-market conjuntas, mentorización, modelos complejos"
+Sales,Channel Sales Tech Lead,7-10,"Liderazgo de equipos de canal, programas de partners, estrategias de ecosistema, frameworks de partner success"
+Sales,Channel Sales Architect,8-12,"Diseño de arquitecturas de canal, estrategias corporativas, modelos de distribución, metodologías de expansión"
+Sales,Principal Channel Sales Manager,10-15,"Liderazgo de prácticas de canal, innovación en modelos indirectos, estrategia corporativa, consultoría interna"
+Sales,Channel Sales Director,12-18,"Dirección de ventas indirectas global, estrategia de ecosistema, transformación de programas, alianzas tecnológicas"
+Sales,VP of Channel Sales,15+,"Liderazgo ejecutivo de canal, visión estratégica global, desarrollo de ecosistemas, estrategia corporativa de partners"
+
+# Executive - C-Level
+
+# Executive - Chief Executive Officer (CEO)
+Executive,Chief Executive Officer (CEO),15+,"Liderazgo ejecutivo de la organización, visión y misión corporativa, dirección estratégica global, responsabilidad ante el consejo/inversores, toma de decisiones de alto nivel, representación corporativa, cultura organizacional, resultados financieros y operativos"
+
+# Executive - Chief Technology Officer (CTO)
+Executive,Chief Technology Officer (CTO),15+,"Liderazgo ejecutivo tecnológico, visión tecnológica a largo plazo, arquitectura empresarial, estrategia de desarrollo de producto, innovación tecnológica, decisiones técnicas estratégicas, gestión de equipos tecnológicos senior, relación con partners tecnológicos, alineación tecnología-negocio"
+
+# Executive - Chief Financial Officer (CFO)
+Executive,Chief Financial Officer (CFO),15+,"Estrategia financiera global, reporting financiero, planificación financiera a largo plazo, relación con inversores, compliance financiero, optimización fiscal, gestión de capital, decisiones de inversión corporativas, M&A, treasury, risk management, auditoría, forecasting financiero"
+
+# Executive - Chief Operating Officer (COO)
+Executive,Chief Operating Officer (COO),15+,"Dirección operativa global, optimización de procesos corporativos, excelencia operacional, escalabilidad de sistemas empresariales, gestión de recursos organizacionales, eficiencia operativa, procesos de delivery, gestión de múltiples departamentos, alineación operaciones-estrategia"
+
+# Executive - Chief Information Officer (CIO)
+Executive,Chief Information Officer (CIO),15+,"Estrategia de sistemas de información, infraestructura tecnológica empresarial, seguridad información corporativa, transformación digital, gestión de proyectos tecnológicos, gobierno TI, alineación IT-negocio, continuidad tecnológica, arquitectura empresarial, cloud strategy"
+
+# Executive - Chief Information Security Officer (CISO)
+Executive,Chief Information Security Officer (CISO),15+,"Estrategia de seguridad global, gobierno de seguridad corporativa, gestión de riesgos tecnológicos, cumplimiento normativo, arquitectura de seguridad, planes de respuesta a incidentes, continuidad de negocio, protección de datos, formación en seguridad, relación con reguladores"
+
+# Executive - Chief Data Officer (CDO)
+Executive,Chief Data Officer (CDO),15+,"Estrategia de datos corporativa, gobierno de datos global, arquitectura de datos empresarial, analytics corporativo, democratización de datos, estrategias de monetización de datos, data privacy corporativa, transformación data-driven, data ethics"
+
+# Executive - Chief AI Officer (CAIO)
+Executive,Chief AI Officer (CAIO),15+,"Estrategia de inteligencia artificial corporativa, transformación AI-driven, frameworks de implementación de IA, gobernanza de modelos, escalabilidad de soluciones AI, ética algorítmica, roadmap de transformación AI, protocolos de modelado"
+
+# Executive - Chief Technology Innovation Officer (CTIO)
+Executive,Chief Technology Innovation Officer (CTIO),15+,"Estrategia de innovación tecnológica, exploración de tecnologías emergentes, laboratorios de experimentación, proof-of-concepts avanzados, evaluación de startups tecnológicas, demostradores innovadores, ecosistemas de co-innovación, investigación aplicada, colaboración con centros de investigación"
+
+# Executive - Chief Software Architect (CSA)
+Executive,Chief Software Architect (CSA),15+,"Visión arquitectónica global, estrategia tecnológica unificada, patrones arquitectónicos corporativos, arquitecturas de referencia, decisiones arquitectónicas estratégicas, mentorización arquitectónica, governance técnico, roadmap tecnológico, evaluación de tecnologías"
+
+# Executive - Chief Research & Development Officer (CRDO)
+Executive,Chief Research & Development Officer (CRDO),15+,"Dirección estratégica de I+D, propiedad intelectual, programas de investigación, estrategia de patentes, relación con universidades, publicaciones científicas, desarrollo de nuevas tecnologías, transferencia tecnológica, inversión en I+D"
+
+# Executive - Chief Cloud Officer (CCO)
+Executive,Chief Cloud Officer (CCO),15+,"Estrategia cloud global, arquitectura multi-cloud, optimización de costes cloud, cloud governance, migración a la nube, servicios cloud-native, ciberseguridad en la nube, compliance cloud, FinOps, estrategia híbrida, cloud foundations"
+
+# Executive - Chief Digital Officer (CDO)
+Executive,Chief Digital Officer (CDO),15+,"Transformación digital organizacional, estrategia digital corporativa, innovación en modelos digitales, liderazgo de proyectos de transformación, omnicanalidad, customer experience, ecosistemas digitales, optimización de canales, mentalización digital"
+
+# Executive - Chief Marketing Officer (CMO)
+Executive,Chief Marketing Officer (CMO),15+,"Estrategia global de marketing, posicionamiento de marca, dirección de campañas corporativas, gestión de portfolio de productos, marketing digital estratégico, relaciones públicas corporativas, estrategia de growth, análisis de mercado avanzado"
+
+# Executive - Chief Product Officer (CPO)
+Executive,Chief Product Officer (CPO),15+,"Visión y estrategia global de producto, roadmap corporativo, priorización de mercados y segmentos, alineación tecnología-negocio, diseño de portfolio, innovación en producto, gestión del ciclo de vida de producto, desarrollo de nuevos productos"
+
+# Executive - Chief Revenue Officer (CRO)
+Executive,Chief Revenue Officer (CRO),15+,"Estrategia global de ingresos, alineación ventas-marketing-success, optimización del ciclo de ventas, expansión de mercados, estrategias de monetización, partnerships estratégicos, forecasting avanzado, growth enfocado a ingresos"
+
+# Executive - Chief People Officer (CPO)
+Executive,Chief People Officer (CPO),15+,"Estrategia global de talento, transformación cultural, desarrollo organizacional, compensación estratégica, employer branding, gestión del cambio, programas de bienestar, optimización de la experiencia del empleado"
+
+# Executive - Chief Legal Officer (CLO)
+Executive,Chief Legal Officer (CLO),15+,"Estrategia legal corporativa, gestión de riesgos legales, compliance global, propiedad intelectual, gobierno corporativo, relaciones con reguladores, protección legal del negocio, negociación de contratos complejos"
+
+# Executive - Chief Experience Officer (CXO)
+Executive,Chief Experience Officer (CXO),15+,"Estrategia global de experiencia de usuario, transformación centrada en el cliente, diseño de experiencias omnicanal, customer journey maps corporativos, integración experiencia-producto, optimización de interacciones"
+
+# Executive - Chief Customer Officer (CCO)
+Executive,Chief Customer Officer (CCO),15+,"Estrategia global de customer success, optimización de la retención de clientes, programas de fidelización, voz del cliente, customer insights, estrategias de valor al cliente, customer-centricity organizacional"
+
+# Executive - Chief Growth Officer (CGO)
+Executive,Chief Growth Officer (CGO),15+,"Estrategia corporativa de crecimiento, modelos escalables de adquisición, expansión en nuevos mercados, frameworks de experimentación, scaling de modelos de negocio, optimización de unidades económicas, diversificación"
+
+# Executive - Chief Innovation Officer (CINO)
+Executive,Chief Innovation Officer (CINO),15+,"Dirección de estrategia de innovación, programas de intraemprendimiento, cultura de innovación, open innovation, ecosistemas de innovación, venturing corporativo, transformación disruptiva, colaboración con startups"
+
+# Executive - Chief Strategy Officer (CSO)
+Executive,Chief Strategy Officer (CSO),15+,"Estrategia corporativa global, análisis competitivo avanzado, planificación a largo plazo, diversificación estratégica, M&A estratégico, nuevas líneas de negocio, escenarios estratégicos, transformación corporativa"
+
+# Executive - Chief Sustainability Officer (CSO)
+Executive,Chief Sustainability Officer (CSO),15+,"Estrategia global de sostenibilidad, ESG corporativo, impacto ambiental, economía circular, diversidad e inclusión, relación con stakeholders, reporte no financiero, compliance sostenible"
+
+# Executive - Chief Ethics Officer (CETO)
+Executive,Chief Ethics Officer (CETO),15+,"Estrategia ética corporativa, programas de compliance ético, responsabilidad ética en IA y tecnología, gobierno de la ética, formación en ética empresarial, resolución de dilemas éticos, relación con sociedad"
+
+# Executive - Chief Diversity Officer (CDO)
+Executive,Chief Diversity Officer (CDO),15+,"Estrategia global de diversidad e inclusión, programas de equidad, cultura inclusiva, mentorización para minorías, procesos de reclutamiento inclusivos, medición de impacto en D&I, sensibilización"
+
+# Executive - Chief Learning Officer (CLO)
+Executive,Chief Learning Officer (CLO),15+,"Estrategia corporativa de aprendizaje, desarrollo de talento, universidades corporativas, upskilling organizacional, programas de liderazgo, gestión del conocimiento, transformación del aprendizaje, ecosistemas formativos"
+
+# Executive - Chief Quality Officer (CQO)
+Executive,Chief Quality Officer (CQO),15+,"Estrategia global de calidad, excelencia operativa, sistemas de calidad corporativos, mejora continua, optimización de procesos, auditoría de calidad, frameworks de calidad, transformación hacia la calidad"
+
+# Executive - Chief Security Officer (CSO)
+Executive,Chief Security Officer (CSO),15+,"Estrategia global de seguridad corporativa, protección de activos físicos y digitales, seguridad de ejecutivos, continuidad de negocio, gestión de crisis, inteligencia de amenazas, coordinación con autoridades"
+
+# Executive - Chief Risk Officer (CRO)
+Executive,Chief Risk Officer (CRO),15+,"Estrategia global de riesgos, modelos avanzados de gestión de riesgos, cumplimiento regulatorio, resilencia organizacional, planes de contingencia, riesgos emergentes, análisis predictivo de riesgos, cultura de riesgo"

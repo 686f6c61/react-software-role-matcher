@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.role-matcher {
+  @apply font-sans;
+}
+
+.role-select__control {
+  @apply border border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500;
+}
+
+.role-select__menu {
+  @apply mt-1 rounded-md shadow-lg bg-white z-10;
+}
+
+.role-select__option {
+  @apply px-4 py-2 hover:bg-indigo-50 cursor-pointer;
+}
+
+.role-select__option--is-selected {
+  @apply bg-indigo-100;
+}
+
+.role-select__group-heading {
+  @apply px-4 py-2 text-xs font-semibold text-gray-500 uppercase tracking-wider bg-gray-50;
+}
