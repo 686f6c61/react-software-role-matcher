@@ -8,7 +8,9 @@
   <img src="public/images/lineas-niveles.png" alt="React Role Matcher - Niveles Profesionales" width="600">
 </div>
 
-Un componente React para autocompletar roles profesionales y mostrar expectativas basadas en años de experiencia, ideal para aplicaciones de desarrollo profesional y definición de perfiles. Incluye un extenso diccionario con más de 1000 roles profesionales organizados en 11 categorías y 9 niveles de experiencia, desde Trainee hasta VP/Chief.
+Un componente React para autocompletar roles profesionales y mostrar expectativas basadas en años de experiencia, ideal para aplicaciones de desarrollo profesional y definición de perfiles. 
+
+> **IMPORTANTE**: Este componente incluye un extenso diccionario CSV con **1163 registros** de roles profesionales organizados en 11 categorías y 9 niveles de experiencia, desde Trainee hasta VP/Chief. El archivo se encuentra en `data/roles_profesionales_npm_format.csv` y es fundamental para el funcionamiento del componente.
 
 ## Tecnologías Utilizadas
 
@@ -138,7 +140,16 @@ export default MyComponent;
 
 ## Estructura del CSV
 
-El componente utiliza un CSV completo con más de 1000 roles profesionales organizados en 11 categorías y 9 niveles de experiencia. La estructura del CSV es la siguiente:
+### 📂 Ubicación y tamaño del archivo
+
+El componente utiliza un CSV completo con **1163 registros** de roles profesionales organizados en 11 categorías y 9 niveles de experiencia. Este archivo es fundamental para el funcionamiento del componente y se encuentra en:
+
+- **Ruta principal**: `data/roles_profesionales_npm_format.csv`
+- **Ruta en ejemplo**: `example/public/roles_profesionales_npm_format.csv`
+
+### Estructura del archivo
+
+La estructura del CSV es la siguiente:
 
 ```csv
 Categoría,Rol,Nivel,Años de experiencia,Habilidades
