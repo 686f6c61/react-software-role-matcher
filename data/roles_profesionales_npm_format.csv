@@ -14,11 +14,15 @@ Administración,"Administrative Assistant, Office Manager, Executive Assistant, 
 Categoría,Nivel Profesional,Años de Experiencia,Habilidades Esperadas
 
 # Software Engineering - General
-Software Engineering,Estudiante (CS/SE),0-1,"Fundamentos de programación, algoritmos básicos, estructuras de datos, conocimiento básico de un lenguaje de programación (Python, Java, JavaScript), conceptos básicos de bases de datos"
-Software Engineering,Engineering Manager,8-15,"Gestión directa de desarrolladores, evaluación de desempeño, desarrollo de carrera, planificación de recursos, resolución de conflictos, implementación de metodologías ágiles, estimación a largo plazo"
-Software Engineering,Senior Engineering Manager,10-15,"Gestión de múltiples equipos, planificación estratégica, optimización de procesos de desarrollo, gestión de presupuesto, colaboración interdepartamental, KPIs técnicos"
-Software Engineering,Director de Ingeniería,12-18,"Dirección de departamentos técnicos, estrategia tecnológica, innovación, gestión de managers, planificación a largo plazo, optimización organizacional, representación ejecutiva"
-Software Engineering,VP of Engineering,15+,"Liderazgo ejecutivo técnico, estrategia técnica a nivel de empresa, gestión presupuestaria global, desarrollo organizacional, alianzas estratégicas, roadmap tecnológico multi-anual"
+SSoftware Engineering,Estudiante (CS/SE),0-1,"Fundamentos de programación, algoritmos básicos, estructuras de datos, conocimiento básico de un lenguaje de programación (Python, Java, JavaScript), conceptos básicos de bases de datos"
+Software Engineering,Junior Developer,0-2,"Desarrollo básico de aplicaciones, familiaridad con control de versiones (Git), resolución de bugs sencillos, introducción a frameworks y metodologías ágiles"
+Software Engineering,Mid-level Developer,2-4,"Desarrollo independiente de funcionalidades, testing automatizado, aplicación de patrones de diseño, integración de servicios, colaboración en equipo"
+Software Engineering,Senior Developer,4-7,"Diseño y desarrollo de soluciones complejas, optimización del rendimiento, revisión y refactorización de código, liderazgo técnico informal y mentoría"
+Software Engineering,Tech Lead,7-10,"Liderazgo técnico de equipo, definición y adopción de estándares de codificación, planificación de proyectos, revisión de código, coaching técnico"
+Software Engineering,Software Architect,8-12,"Diseño de arquitecturas de software escalables, definición de patrones de diseño, toma de decisiones tecnológicas, aseguramiento de la calidad técnica"
+Software Engineering,Principal Engineer,10-15,"Liderazgo en proyectos estratégicos, consultoría técnica interna, definición de la dirección tecnológica, innovación, mentoría de líderes y equipos"
+Software Engineering,Director de Ingeniería,12-18,"Dirección de departamentos técnicos, estrategia tecnológica, desarrollo y gestión de equipos, planificación a largo plazo, optimización organizacional, representación ejecutiva"
+Software Engineering,VP of Engineering,15+,"Liderazgo ejecutivo en tecnología, estrategia técnica global, gestión presupuestaria, desarrollo organizacional, alianzas estratégicas, roadmap tecnológico multi-anual"
 
 # Software Engineering - Backend Developer
 Software Engineering,Backend Developer Trainee,0-1,"Fundamentos de desarrollo backend, bases de datos básicas, APIs sencillas, primeros pasos con lenguajes de backend, conceptos básicos de servidores"
