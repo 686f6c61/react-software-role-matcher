@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "React component for professional role matching with autocomplete and dynamic forms for finding the right professional profile",
   "type": "module",
-  "main": "dist/index.js",
+  "main": "dist/index.cjs",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "files": [
