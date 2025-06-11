@@ -169,5 +169,8 @@ export const determineProfessionalLevel = (
  */
 export const fetchCSVData = async (url: string): Promise<string> => {
   const response = await fetch(url);
+  if (!response.ok) {
+    throw new Error(`Failed to fetch CSV data: ${response.status}`);
+  }
   return await response.text();
 };
