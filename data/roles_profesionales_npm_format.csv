@@ -14,7 +14,7 @@ Administración,"Administrative Assistant, Office Manager, Executive Assistant, 
 Categoría,Nivel Profesional,Años de Experiencia,Habilidades Esperadas
 
 # Software Engineering - General
-SSoftware Engineering,Estudiante (CS/SE),0-1,"Fundamentos de programación, algoritmos básicos, estructuras de datos, conocimiento básico de un lenguaje de programación (Python, Java, JavaScript), conceptos básicos de bases de datos"
+Software Engineering,Estudiante (CS/SE),0-1,"Fundamentos de programación, algoritmos básicos, estructuras de datos, conocimiento básico de un lenguaje de programación (Python, Java, JavaScript), conceptos básicos de bases de datos"
 Software Engineering,Junior Developer,0-2,"Desarrollo básico de aplicaciones, familiaridad con control de versiones (Git), resolución de bugs sencillos, introducción a frameworks y metodologías ágiles"
 Software Engineering,Mid-level Developer,2-4,"Desarrollo independiente de funcionalidades, testing automatizado, aplicación de patrones de diseño, integración de servicios, colaboración en equipo"
 Software Engineering,Senior Developer,4-7,"Diseño y desarrollo de soluciones complejas, optimización del rendimiento, revisión y refactorización de código, liderazgo técnico informal y mentoría"
